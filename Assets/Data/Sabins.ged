@@ -1,0 +1,4751 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 12 Jan 2003
+2 TIME 16:09:28
+1 FILE Sabins.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 SUBM @SUB1@
+0 @SUB1@ SUBM
+1 NAME Eugene Sabin
+1 ADDR 501 N Olive Dr
+2 CONT Mesa Arizona 85203
+2 CTRY United States
+0 @I1@ INDI
+1 NAME Walter Leroy /SABIN/
+2 SURN SABIN
+2 GIVN Walter Leroy
+1 SEX M
+1 BIRT
+2 DATE 14 Apr 1889
+2 PLAC Sulphur Springs, Cochise, AZ
+1 DEAT
+2 DATE 30 Aug 1890
+1 BURI
+2 PLAC Saint David,Cochise,Arizona,United States
+1 AFN 5NSH-S7
+1 BAPL
+2 STAT CHILD
+1 ENDL
+2 STAT CHILD
+1 _UID 5409ADF37BEED61181E79F8A4A34F60D5F09
+1 FAMC @F4@
+1 SLGC
+2 FAMC @F4@
+2 STAT BIC
+1 NOTE Birth: St. David Ward Records, Early to 1905, #288, P.12 (#001,883).
+2 CONT 
+2 CONT Death: Arizona Death Records, P.1145 (US AZ-V23-1, AZ Gen. Lib., Mesa, AZ)
+2 CONT 
+2 CONT Birth = also in Wilgus Arizona which is in Sulphur Springs valley
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:33:44
+0 @I2@ INDI
+1 NAME Alice Alfretta /SABIN/
+2 SURN SABIN
+2 GIVN Alice Alfretta
+1 SEX F
+1 BIRT
+2 DATE 28 Oct 1886
+2 PLAC Curtis,Graham,Arizona,United States
+1 DEAT
+2 DATE 13 Jun 1969
+1 AFN 5NSH-R2
+1 BAPL
+2 DATE 7 Mar 1895
+1 ENDL
+2 DATE 8 Jul 1921
+2 TEMP LOGAN
+1 _UID 5209ADF37BEED61181E79F8A4A34F60D5DE9
+1 FAMC @F15@
+1 SLGC
+2 FAMC @F15@
+2 DATE 19 Oct 1887
+2 TEMP SG
+1 NOTE Alice (Alfretta) SABIN-Middle name only appears on Endowment record and death certificate.
+2 CONT 
+2 CONT Birth:St. David Ward Records, 1909-1923 (#002,449)
+2 CONT 
+2 CONT Marriage: San Bernardino Co., CA, Mar. Rec. P.250, Loc. Reg. #1267, rec. 24 nov 1926. Divorce
+2 CONC : Los Angeles County, CA, Final Divorce Decree #D142611, Book 966, P.301.Civil divorce from G
+2 CONC lenn Errol Niven 13 May 1937.
+2 CONT 
+2 CONT Death: CA Death Certificate, State file #69-077511, Local Reg. Dist. &Cert. #7097-024930, rec
+2 CONC . 13 Jun 1969.
+2 CONT 
+2 CONT Baptism: #002,449.
+2 CONT 
+2 CONT Endowment: #6773 Book A, P.242 LG (#178,054).
+2 CONT 
+2 CONT Sealed to parents: SG Adoption Records, Book B, P.667 (#170,583)
+2 CONT 
+2 CONT Sealed to Joseph Eldridge ROBINSON: #60058, Pt. 147, #456,380; after his death, 20 Apr 1960 i
+2 CONC n the Arizona Temple.
+2 CONT 
+2 CONT Adopted by Parley Pratt Sabin 19 Oct 1887.
+2 CONT 
+2 CONT Birth = Alice Alfretta.  Changed name when adopted
+2 CONT 
+2 CONT Father = Henry T. Brixner of Sliver City New Mexico
+2 CONT 
+2 CONT Adopted = by and sealed to Parley Pratt Sabin
+2 CONT 
+2 CONT City = Curtis Arizona in now called Eden
+2 CONT 
+2 CONT Married = Glenn Errol Niven on 22 November 1926 in San Bernardino CA
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 18:20:53
+0 @I3@ INDI
+1 NAME Wallace Dewey /Sabin/ senior
+2 SURN Sabin
+2 GIVN Wallace Dewey
+2 NSFX senior
+2 _AKA Dewey W. Sabin
+1 SEX M
+1 BIRT
+2 DATE 21 Dec 1898
+2 PLAC St. David,Cochise,Arizona,United States
+1 DEAT
+2 DATE 7 Oct 1979
+2 PLAC Yuba City,Sutter,California,United States
+1 BURI
+2 DATE 11 Oct 1979
+2 PLAC Sutter,Sutter,California,United States
+1 AFN 3FXJ-9M
+1 BAPL
+2 DATE 2 May 1908
+1 ENDL
+2 DATE 13 Oct 1920
+2 TEMP SLAKE
+1 _UID 16E833B65EA6D61181E7C6A9006E672AA80B
+1 FAMS @F2@
+1 FAMS @F3@
+1 FAMC @F4@
+1 SLGC
+2 FAMC @F4@
+2 STAT BIC
+1 NOTE Married = in the the parlor of his father-in-law.
+2 CONT 
+2 CONT SSDI = 527-18-3486
+2 CONT 
+2 CONT Burried = Section B, Lot 100, Grave 1
+2 CONT 
+2 CONT Wallace Dewey SABIN was known as Dewey W. SABIN or Dewey Wallace SABIN after
+2 CONT about 1908(10 yrs old).
+2 CONT 
+2 CONT Birth: #44, St. David Ward Records (#001,883)
+2 CONT 
+2 CONT Marriage: (1) Maricopa County, AZ, Book 27, P.514, rec. 4 May 1925.
+2 CONT           (2) Washoe County, NV, Marriage Certificate #422574, Book 256, P.156, rec. 6 sep 19
+2 CONC 55.
+2 CONT 
+2 CONT Death: CA Death Certificate #79-120102, Local Reg. Dist. & Cert. #5100-262, rec. 10 Oct 1979.
+2 CONT 
+2 CONT Burial: Sutter County Cemetary,Sutter,CA
+2 CONT 
+2 CONT Baptism: #44, #001,883.
+2 CONT 
+2 CONT Endowment: #12712 Book H, P.481 SL (#184,022).
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:37:57
+0 @I4@ INDI
+1 NAME Donnetta  /Shumway/
+2 SURN Shumway
+2 GIVN Donnetta
+1 SEX F
+1 BIRT
+2 DATE 27 Oct 1899
+2 PLAC Shumway,Navajo,Arizona,United States
+1 DEAT
+2 DATE 9 Jan 1955
+2 PLAC Yuba City,Sutter,California,United States
+1 BURI
+2 DATE 13 Jan 1955
+2 PLAC Sutter,Sutter,California,United States
+1 AFN 3FXJ-BS
+1 BAPL
+2 DATE 27 Aug 1908
+1 ENDL
+2 DATE 11 Feb 1928
+2 TEMP ARIZO
+1 _UID 19E833B65EA6D61181E7C6A9006E672AAB3B
+1 FAMS @F2@
+1 FAMC @F45@
+1 SLGC
+2 FAMC @F45@
+2 STAT BIC
+1 NOTE Name = Called Donna by her family
+2 CONT 
+2 CONT Personallity = I have heard from several people who knew her.  They
+2 CONT said that my grandmother was a very kind and gentle person.
+2 CONT 
+2 CONT Burried = Section E, Lot 124, Grave 8
+2 CONT 
+2 CONT Burial: Sutter County Cemetary, Sutter,CA
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 22:55:16
+0 @I5@ INDI
+1 NAME Parley Pratt /Sabin/
+2 SURN Sabin
+2 GIVN Parley Pratt
+1 SEX M
+1 BIRT
+2 DATE 20 Oct 1848
+2 PLAC ,Clinton,Illinois,United States
+1 DEAT
+2 DATE 12 Aug 1924
+2 PLAC Pomerene,Cochise,Arizona,United States
+1 BURI
+2 DATE 14 Aug 1924
+2 PLAC St David,Cochise,Arizona,United States
+1 BAPL
+2 DATE 1856
+1 ENDL
+2 DATE 12 May 1873
+2 TEMP EHOUS
+1 _UID 34E833B65EA6D61181E7C6A9006E672AC6EB
+1 FAMS @F5@
+1 FAMS @F6@
+1 FAMS @F4@
+1 FAMC @F7@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F7@
+2 DATE 11 Oct 1916
+2 TEMP SLAKE
+1 SLGC
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 NOTE Marriage = also 6 Jan 1872 in Payson to Eliza Jane Bates
+2 CONT 
+2 CONT British Records of Joseph Bates, Caroline Sims, and Charles P. Smith.   The Minnie Margetts F
+2 CONC ile is an Index of Mesbership records of English branch records for 1839-1913.  Use the follo
+2 CONC wing numbers:  British 0415444 & 0415454
+2 CONT 
+2 CONT Birth: Payson Ward Record of members(GS #026,401)
+2 CONT 1850 census, Great Salt Lake County, UT, P.59
+2 CONT 1860 UT Census, Payson, Utah County, P.252 (GS #805,314)
+2 CONT "Beginning Alpine, Utah, UT, and Genealogy of the inhabitants of Payson City,Utah County,UT,
+2 CONC " as taken in 1861 (GS #026,409)
+2 CONT 1870 Census, Payson, Utah County, UT (GS #553,111)
+2 CONT 
+2 CONT Birth: All of the above information would have most undoubtedable been supplied by the parent
+2 CONC s of Parley giving Illinois as his place of birth. After Parley moves to Arizona, he starts g
+2 CONC iving Iowa as his place of birth.
+2 CONT 
+2 CONT Birth: Clinton County Illinois is only a short distance from St. Louis, MO, where his sister
+2 CONC , Anna Maria, was born in 1846. David Sabin purchases land in Clinton County the year after P
+2 CONC arley was born.
+2 CONT 
+2 CONT Birth: His parents were undoubtedably more knowledgeable about the place of his birth.
+2 CONT 
+2 CONT Death: Arizona Death Certificate, State Index #119, County Reg. #425, rec. 13 Aug 1924 (Local
+2 CONC ) and 9 Sep 1924 (State).
+2 CONT 
+2 CONT Baptism: P.103, GS #025,544. 1856 cleared for rebaptism for full date.
+2 CONT 
+2 CONT Baptism: Film #026,409, 1861,P.149-50.
+2 CONT 
+2 CONT Endowment: #919 Book H, P.40 EHOUS Endowments-Living (GS #183,407)
+2 CONT 
+2 CONT Marriage:(1) Letter (7 Aug 1964) from Niece of Eliza (Harriet B. Francom).
+2 CONT          (2) Film #183,407, EHOUS.
+2 CONT          (3) Washington County, UT, Marriage Records, Sol. by John D.T.                    Mc
+2 CONC Allister.
+2 CONT Sealed to Parents: Film #1,239,617, SLAKE Sealings-Parents, P.214, #7141, 11 Oct 1916; Film #
+2 CONC 170,717, ARIZO Sealings, Book 80, P.787, 28 Jun 1939.
+2 CONT 
+2 CONT Birth: Payson Ward Record of members(GS #026,401); 1850 census, Great Salt Lake County, UT, P
+2 CONC .59; 1860 UT Census, Payson, Utah County, P.252 (GS #805,314); "Beginning Alpine, Utah, UT, a
+2 CONC nd Genealogy of the inhabitants of Payson City,Utah County,UT," as taken in 1861 (GS #026,409
+2 CONC ); 1870 Census, Payson, Utah County, UT (GS #553,111). All of the above information would hav
+2 CONC e most undoubtedable been supplied by the parents of Parley giving Illinois as his place of b
+2 CONC irth. All other records given after this time was most likely given by Parley giving Iowa a
+2 CONC s his place of birth. Clinton County Illinois is only a short distance from St. Louis, MO, wh
+2 CONC ere his sister, Anna Maria, was born in 1846. Clinton County, Iowa, is far to the north and n
+2 CONC ot near the route taken in the trek of the pioneers. His parents were undoubtedably more know
+2 CONC ledgeable about the place of his birth.
+2 CONT 
+2 CONT Baptism: P.103, GS #025,544. 1856 cleared for rebaptism for full date.
+2 CONT Film #026,409, 1861,P.149-50.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:31:46
+0 @I6@ INDI
+1 NAME David  /Sabin/
+2 SURN Sabin
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE 31 Mar 1807
+2 PLAC Cazenovia,Madison,New York,United States
+1 DEAT
+2 DATE 31 May 1882
+2 PLAC Payson,Utah,Utah,United States
+1 BURI
+2 DATE Jun 1882
+2 PLAC Payson,Utah,Utah,United States
+1 AFN 1BQX-G8
+1 BAPL
+2 DATE 15 Nov 1843
+1 ENDL
+2 DATE 20 Jan 1846
+2 TEMP NAUVO
+1 _UID 38E833B65EA6D61181E7C6A9006E672ACA2B
+1 FAMS @F7@
+1 FAMS @F8@
+1 FAMS @F9@
+1 FAMC @F10@
+1 SLGC
+2 FAMC @F10@
+2 DATE 28 Jul 1939
+2 TEMP ARIZO
+1 NOTE Occupation = Apprenticed starting from about 7 years old.  Machinist, Blacksmith, & Nailmaker
+2 CONC .
+2 CONT 
+2 CONT Baptism = by William C. Stuart
+2 CONT 
+2 CONT Ordained = High Priest in Nauvoo on 29 Dec 1844 by Hezekiah Peck, Phineas Richards, and Geo
+2 CONC . W. Harris.  also Oct 1844 by George Miller
+2 CONT 
+2 CONT Birth: Film #392,683, Pat. Bless
+2 CONT #355, 8 Feb 1845 NAUVO.
+2 CONT 
+2 CONT Baptism: NAUVO Endowments Book B, P.262, #1490
+2 CONT Film #026,409, Geen. Inh. Payson, 1861.
+2 CONT 
+2 CONT Endowment: NAUVO Endowment Register, P.159; NAUVO Book B, P.262, #1490.
+2 CONT 
+2 CONT Marriage: CFI, 1976, Batch #M183402, Serial #1191.
+2 CONT 
+2 CONT Sealed: Film #183,393, EHOUS Sealings-Living, Book A1, P.50. #641, 28 Jul 1852
+2 CONT Film #183,398, EHOUS Sealings, Book H, P.236, #3003, 28 Aug 1872.
+2 CONT 
+2 CONT Death: Film #321,166, "News" 31 May 1882, 32:337
+2 CONT Payson City Cemetery Index Record of Burials, Burial Block 6, Lot 22, Record #479.
+2 CONT 
+2 CONT Birth: Film #392,683, Pat. Bless, #355, 8 Feb 1845 NAUVO.
+2 CONT 
+2 CONT Baptism:NAUVO Endowments Book B, P.262, #1490;Film #026,409, Geen. Inh. Payson, 1861.
+2 CONT 
+2 CONT Sealed: Film #183,393, EHOUS Sealings-Living, Book A1, P.50. #641, 28 Jul 1852; Film #183,398
+2 CONC , EHOUS Sealings, Book H, P.236, #3003, 28 Aug 1872.
+2 CONT 
+2 CONT Death: Film #321,166, "News" 31 May 1882, 32:337; Payson City Cemetery Index Record of Burial
+2 CONC s, Burial Block 6, Lot 22, Record #479.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:26:35
+0 @I7@ INDI
+1 NAME Elizabeth  /Dorwart/
+2 SURN Dorwart
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 31 May 1811
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 18 Aug 1811
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 17 Aug 1891
+2 PLAC Payson,Utah,Utah,United States
+1 BURI
+2 DATE Aug 1891
+2 PLAC Payson,Utah,Utah,United States
+1 AFN 1BQX-HF
+1 BAPL
+2 DATE 15 Nov 1843
+1 ENDL
+2 DATE 20 Jan 1846
+2 TEMP NV
+1 _UID 58E833B65EA6D61181E7C6A9006E672AEA2B
+1 FAMS @F7@
+1 FAMC @F11@
+1 SLGC
+2 FAMC @F11@
+2 DATE 28 Jul 1852
+2 TEMP EH
+1 NOTE Also called Mary Elizabeth Dowart
+2 CONT 
+2 CONT Partiarical Blessing in Nauvoo on 8 Feb 1845 by John Smith, Vol 7 p 349   Lineage Joseph
+2 CONT 
+2 CONT Birth: Pat. Bless, NAUVO #356, 13 Feb 1845, Film #392,683 & #026,409, Payson.
+2 CONT 
+2 CONT Baptism: Film #026,409 Gen Inh. Payson 1861
+2 CONT Film #026,401 (Payson early to 1870).
+2 CONT 
+2 CONT Endowment: NAUVO Temple Endowment Register, P.159; NAUVO Book B, P.263. #1502.
+2 CONT 
+2 CONT Baptism: Film #026,409 Gen Inh. Payson 1861; Film #026,401 (Payson early to 1870).
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:24:46
+0 @I8@ INDI
+1 NAME Sarah Cecelia /SMITH/
+2 SURN SMITH
+2 GIVN Sarah Cecelia
+2 _AKA Sadie
+1 SEX F
+1 BIRT
+2 DATE 29 May 1866
+2 PLAC St. Thomas, Pah Ute, AZ
+1 DEAT
+2 DATE 1 Aug 1940
+2 PLAC Mesa, Maricopa, AZ
+1 BURI
+2 DATE 4 Aug 1940
+2 PLAC St. David, Cochise, AZ
+1 AFN 1CZK-FC
+1 BAPL
+2 DATE 1876
+1 ENDL
+2 DATE 19 Oct 1887
+2 TEMP SGEOR
+1 _UID 5009ADF37BEED61181E79F8A4A34F60D5BC9
+1 FAMS @F4@
+1 FAMC @F16@
+1 SLGC
+2 FAMC @F16@
+2 DATE 13 Jun 1945
+2 TEMP AZ
+1 NOTE Birth: ST. Thomas Ward Record, Births and Blessings, 1866-1870 ( #014,924). St. Thomas was st
+2 CONC arted in 1865 in Arizona's Pah-Ute County. The County was established in 1865 by the 2nd Terr
+2 CONC . Legislature. Action of Congress on 5 May 1866, granted this part of Arizona to Nevada("Hist
+2 CONC ory of Arizona" Edward H. Peplow, Jr., Lewis Hist. Pub> Co., Inc.,N.Y. 1958), conditioned o
+2 CONC n ...acceptance by the Legislature of Nevada. This was done 2 Jan 1867("Mormon Settlement i
+2 CONC n Arizona" by James H. McClintock). Born 28 May 1866. Autobiography gives birth as 29 May 186
+2 CONC 6.
+2 CONT 
+2 CONT Death: Arizona Death Certificate, File #104, Reg. #42, rec. 6 Aug 1940.
+2 CONT 
+2 CONT Baptism:(1) P.89, #001,883; (2) Film #170,577,Book C, P.380, #2244, SGEOR Endowments-Living
+2 CONC . Rebaptised 5 May 1976 in SLAKE Temple.
+2 CONT 
+2 CONT Marriage: Washington County, Utah Territory Marriage Record, By John D.T. McAllister.
+2 CONT 
+2 CONT Endowment: #2244 Book C, P.380-1 SGEOR Endowments-Living, (#170,577).
+2 CONT 
+2 CONT Sealed to husband: Book B P.8 SG (#170,579).
+2 CONT 
+2 CONT Sealed to Parents: AZ Temple Film #170,723, Book 126, P.117.
+2 CONT 
+2 CONT Baptized = Also 5 May 1976 or 1 April 1981 PV
+2 CONT Endowed = Also 10 July 1981 PV
+2 CONT Sealed to parents = 23 July 1981 PV
+2 CONT 
+2 CONT Note = Pah-Ute county in Arizona later became Clark county in Nevada.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:35:57
+0 @I9@ INDI
+1 NAME David Hyrum /SABIN/
+2 SURN SABIN
+2 GIVN David Hyrum
+1 SEX M
+1 BIRT
+2 DATE 31 Dec 1893
+2 PLAC St. David, Cochise, AZ
+1 DEAT
+2 DATE 4 Sep 1974
+2 PLAC Mesa, Maricopa, AZ
+1 BURI
+2 DATE 6 Sep 1974
+2 PLAC Mesa, Maricopa, AZ
+1 AFN 2X8Z-9C
+1 BAPL
+2 DATE 1 Mar 1902
+1 ENDL
+2 DATE 5 Oct 1916
+2 TEMP SLAKE
+1 _UID 5809ADF37BEED61181E79F8A4A34F60D6349
+1 FAMC @F4@
+1 SLGC
+2 FAMC @F4@
+2 STAT BIC
+1 NOTE Birth:AZ Delayed Certificate of Birth, State file #26, issued 25 Mar 1943.
+2 CONT 
+2 CONT Marriage: (1) Cochise County, AZ, Book 11, P.78.
+2 CONT           (2) Maricopa County, AZ, Book 1401, P.103.
+2 CONT 
+2 CONT Death: Arizona Death Certificate, Death #D102-74-011880.
+2 CONT 
+2 CONT Burial: Mesa City Cemetery, Mesa, Maricopa, AZ.
+2 CONT 
+2 CONT Baptism: #297(or #299), P.12 #001,883; #93, #002,449; #152, #001,882.
+2 CONT 
+2 CONT Endowment: #4880 Book E, P.202 SL (#184,072 (or #184,022)).
+2 CONT 
+2 CONT May also have been sealed to parents on 5 Oct 1916 SL
+2 CONT 
+2 CONT Married = Ellen Elva Naegle on 23 July 1915 in Pomerene AZ
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:53:31
+0 @I11@ INDI
+1 NAME Eva Emily /BURBANK/
+2 SURN BURBANK
+2 GIVN Eva Emily
+2 _AKA SEADER
+1 SEX F
+1 BIRT
+2 DATE 27 Feb 1904
+2 PLAC , , CA
+1 DEAT
+2 DATE 17 May 1988
+2 PLAC , , UT
+1 AFN H2JK-LQ
+1 _UID 60E833B65EA6D61181E7C6A9006E672AF2AB
+1 FAMS @F3@
+1 NOTE Married = first marriage to a man named Seader.
+2 CONT 
+2 CONT SSDI = 559-18-3486
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:23:50
+0 @I14@ INDI
+1 NAME Joseph  /Sabin/
+2 SURN Sabin
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE 15 Feb 1773
+2 PLAC ,Madison,New York,United States
+1 DEAT
+2 DATE 1847
+1 AFN 35J2-LG
+1 BAPL
+2 DATE 23 Sep 1874
+1 ENDL
+2 DATE 27 Aug 1884
+1 _UID A1E833B65EA6D61181E7C6A9006E672A33BB
+1 FAMS @F17@
+1 FAMS @F18@
+1 FAMS @F10@
+1 FAMC @F19@
+1 SLGC
+2 FAMC @F19@
+2 DATE 26 Aug 1983
+2 TEMP OG
+1 NOTE Moved to Salisbury Herkimer county New York 1815.  Town clerk 1815-1829.  In Census 1820 & 18
+2 CONC 30.
+2 CONT 
+2 CONT BAPL 23 SEP 1874 26 AUG 1884
+2 CONT 
+2 CONT ENDL 27 AUG 1884 13 MAR 1885
+2 CONT 
+2 CONT Line 1317 from GEDCOM File not recognizable or too long:
+2 CONT   BAPL 23 SEP 1874 26 AUG 1884
+2 CONT 
+2 CONT Line 1318 from GEDCOM File not recognizable or too long:
+2 CONT   ENDL 27 AUG 1884 13 MAR 1885
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:29:16
+0 @I15@ INDI
+1 NAME Elizabeth  /Joslin/
+2 SURN Joslin
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 13 Mar 1780
+2 PLAC West Greenwich,Kent,Rhode Island
+1 DEAT
+2 DATE 8 Oct 1814
+2 PLAC ,,Wisconsin,United States
+1 AFN 35J2-MM
+1 BAPL
+2 DATE 26 Aug 1884
+1 ENDL
+2 DATE 27 Aug 1884
+2 TEMP LOGAN
+1 _UID A5E833B65EA6D61181E7C6A9006E672A37FB
+1 FAMS @F10@
+1 FAMC @F20@
+1 NOTE Known to her family as Betsy.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:25:11
+0 @I16@ INDI
+1 NAME Henry  /Dorwart/
+2 SURN Dorwart
+2 GIVN Henry
+1 SEX M
+1 BIRT
+2 DATE 16 Nov 1781
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 2 Jan 1782
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 7 May 1845
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 _UID A7E833B65EA6D61181E7C6A9006E672A391B
+1 FAMS @F11@
+1 FAMC @F21@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I17@ INDI
+1 NAME Elizabeth  /Hoffman/
+2 SURN Hoffman
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 24 Sep 1783
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 30 Oct 1784
+2 PLAC Middleton,Dauphin,Pennsylvania,United States
+1 DEAT
+2 DATE 23 Aug 1855
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 BURI
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 _UID A9E833B65EA6D61181E7C6A9006E672A3B3B
+1 FAMS @F11@
+1 NOTE Christened in St. Peter Lutheran Church
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I18@ INDI
+1 NAME Charles Pears /Smith/
+2 SURN Smith
+2 GIVN Charles Pears
+1 SEX M
+1 BIRT
+2 DATE 9 Jan 1833
+2 PLAC Leeds,Yorkshire,England,United Kingdom
+1 DEAT
+2 DATE 18 Dec 1910
+2 PLAC St. David,Cochise,Arizona,United States
+1 BURI
+2 DATE 19 Dec 1910
+2 PLAC St. David,Cochise,Arizona,United States
+1 BAPL
+2 DATE 13 Dec 1845
+1 ENDL
+2 DATE 12 Oct 1867
+2 TEMP EH
+1 _UID AAE833B65EA6D61181E7C6A9006E672A3C4B
+1 FAMS @F16@
+1 FAMC @F22@
+1 NOTE Baptized = 13 Dec or 15 Jan 1845 by Bishop Sheets
+2 CONT 
+2 CONT Confirmed = 13 Dec or 15 Jan 1845 by Abram Lord
+2 CONT 
+2 CONT Ordained = Elder 1868 by Bishop Sheets
+2 CONT 
+2 CONT Rebaptized = 16 May 1903 by William Goodman
+2 CONT 
+2 CONT Confirmed = 16 May 1903 by John S. Merrill
+2 CONT 
+2 CONT Ordained = High Priest 7 June 1903 by Andrew Kimbal
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I19@ INDI
+1 NAME Mary  /Wilkinson/
+2 SURN Wilkinson
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 5 Jan 1842
+2 PLAC Bradford,Berkshire,England,United Kingdom
+1 DEAT
+2 DATE 11 Nov 1928
+2 PLAC St. David,Cochise,Arizona,United States
+1 BURI
+2 DATE 12 Nov 1928
+2 PLAC St David,Cochise,Arizona,United States
+1 BAPL
+2 DATE 9 Jun 1850
+1 ENDL
+2 DATE 12 Oct 1867
+2 TEMP EH
+1 _UID ACE833B65EA6D61181E7C6A9006E672A3E6B
+1 FAMS @F16@
+1 FAMC @F23@
+1 NOTE Baptized = also 1842
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I24@ INDI
+1 NAME Ester /SABIN/
+2 SURN SABIN
+2 GIVN Ester
+1 SEX F
+1 BIRT
+2 DATE 30 Apr 1809
+2 PLAC Cazenovia,Madison,New York,United States
+1 AFN 35J2-TN
+1 BAPL
+2 DATE 9 Jun 1924
+1 ENDL
+2 DATE 5 May 1925
+1 _UID FA09ADF37BEED61181E79F8A4A34F60D0569
+1 FAMC @F10@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F10@
+2 DATE 28 Jun 1939
+1 SLGC
+2 DATE 28 Jun 1939
+1 NOTE Name = also known as Easter or Ester.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:27:35
+0 @I25@ INDI
+1 NAME Joseph Parley /SABIN/
+2 SURN SABIN
+2 GIVN Joseph Parley
+1 SEX M
+1 BIRT
+2 DATE 5 Aug 1927
+2 PLAC Phoenix, Maricopa, AZ
+1 DEAT
+2 DATE 29 May 1973
+2 PLAC Charlotte, Mecklinburg, NC
+1 BURI
+2 DATE 2 Jun 1973
+2 PLAC Charlotte, Mecklinburg, NC
+1 AFN 7NVP-7D
+1 BAPL
+2 DATE 31 Aug 1935
+1 ENDL
+2 DATE 16 Oct 1947
+2 TEMP SLAKE
+1 _UID 4809ADF37BEED61181E79F8A4A34F60D5349
+1 SLGC
+2 DATE 11 Feb 1928
+2 TEMP ARIZO
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:53:53
+0 @I26@ INDI
+1 NAME Eleanor //
+2 GIVN Eleanor
+1 SEX F
+1 AFN FVQZ-LL
+1 _UID 2813ADF37BEED61181E79F8A4A34F60D3DDF
+1 FAMS @F20@
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:58:33
+0 @I27@ INDI
+1 NAME Lydia /SABIN/
+2 SURN SABIN
+2 GIVN Lydia
+1 SEX F
+1 BIRT
+2 DATE ABT 1786
+2 PLAC Otsego, Otsego, NY
+1 AFN PC3G-CL
+1 BAPL
+2 DATE 14 Jun 1938
+1 ENDL
+2 DATE 14 Apr 1939
+2 TEMP SLAKE
+1 _UID A80AADF37BEED61181E79F8A4A34F60DB458
+1 FAMC @F25@
+1 NOTE Maybe? = Born 25 Dec 1787 in Lee MA,  married to Elisha House on 5
+2 CONT May 1805 in Plymouth Chenango county New York
+2 CONT 
+2 CONT Marriage= Joseph Twogood
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:30:01
+0 @I29@ INDI
+1 NAME Octavia Jecosa /Sims/
+2 SURN Sims
+2 GIVN Octavia Jecosa
+2 _AKA Cozy
+1 SEX F
+1 BIRT
+2 DATE 17 Oct 1857
+2 PLAC Cheltenham,Gloucester,England,United Kingdom
+1 DEAT
+2 DATE 14 Mar 1886
+2 PLAC Curtis,Graham,Arizona,United States
+1 BURI
+2 PLAC Curtis, Graham, AZ
+1 AFN 1LNB-ST
+1 BAPL
+2 DATE 1 Aug 1867
+1 ENDL
+2 DATE 12 Jan 1874
+2 TEMP EHOUS
+1 _UID 3BE933B65EA6D61181E7C6A9006E672ACE6A
+1 FAMS @F6@
+1 FAMS @F56@
+1 FAMS @F14@
+1 FAMS @F65@
+1 FAMS @F58@
+1 FAMS @F74@
+1 FAMS @F50@
+1 NOTE Birth and Place: Birth record,General Register's Office,Somerset,London, England,Reg. Dist. C
+2 CONC heltenham,1857,#250,rec. 11 Nov 1857. Burial date appears on all family records but can not b
+2 CONC e verified.Her grave is in the cemetery at Eden, Graham, AZ.
+2 CONT 
+2 CONT Baptism: Payson Ward Records (GS #6463, Pt.2)
+2 CONT 
+2 CONT Endowment: #2268 Book H, P.103 EH (GS #183,407).
+2 CONT 
+2 CONT Sealed to husband: Book 1, P.62 EH (GS #183,399).
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:34:57
+0 @I30@ INDI
+1 NAME Mary Ann /SABIN/
+2 SURN SABIN
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 31 May 1843
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 25 Mar 1927
+2 PLAC St. Thomas,Clark,Nevada,United States
+1 BURI
+2 PLAC St. Thomas, Clark, NV
+1 AFN 1BR0-18
+1 BAPL
+2 DATE 1851
+1 ENDL
+2 DATE 1 Nov 1862
+2 TEMP EHOUS
+1 _UID 8809ADF37BEED61181E79F8A4A34F60D9349
+1 FAMC @F7@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F7@
+2 DATE 28 Jun 1939
+2 TEMP AZ
+1 FAMC @F60@
+1 SLGC
+2 FAMC @F60@
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 SLGC
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 NOTE Birth: Film #026,401, Payson Records (Early to 1891).
+2 CONT 
+2 CONT Baptism: Film #026,401, Payson Records (Early to 1891).
+2 CONT 
+2 CONT Endowment: Film #183,404, EHOUS Endowments-Living, Book D, P.162, #3184.
+2 CONT 
+2 CONT Sealed to Parents: Film #170,717, AZ Sealings, Book 80, P.787.
+2 CONT 
+2 CONT Death: Film #014,924, St. Thomas (1908-16) Form E, Deaths, P.1462, #488.
+2 CONT 
+2 CONT Marriage = 10 Mar 1859 in Payson Utah to LeRoy Winslow Beebe
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:30:26
+0 @I32@ INDI
+1 NAME Joseph Henry /Sabin/
+2 SURN Sabin
+2 GIVN Joseph Henry
+1 SEX M
+1 BIRT
+2 DATE 27 Apr 1891
+2 PLAC St David,Cochise,Arizona,United States
+1 DEAT
+2 DATE 18 Aug 1926
+1 AFN 5NSH-TD
+1 BAPL
+2 DATE 30 Jun 1899
+1 ENDL
+2 DATE 7 Dec 1931
+2 TEMP ARIZO
+1 _UID 3FE933B65EA6D61181E7C6A9006E672AD2AA
+1 FAMC @F4@
+1 SLGC
+2 FAMC @F4@
+2 STAT BIC
+1 NOTE Married = Blanche Hedgepeth on 10 February 1917 in Phoenix AZ
+2 CONT 
+2 CONT Birth: St. David Ward Records, 1909-1923 (#002,449)
+2 CONT 
+2 CONT Marriage: Maricopa County, AZ, Book 14, P.368; License 3 Feb 1917.
+2 CONT 
+2 CONT Death: CA Death Certificate, #26-037788, Loc. Reg. #8000, Dist. #1901, rec. 20 Aug 1926.
+2 CONT 
+2 CONT Baptism: #002,449.
+2 CONT 
+2 CONT Endowment: #44931, P.847 AZ (#170,658), Bk 48.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:56:53
+0 @I33@ INDI
+1 NAME Sarah Cecilia /Sabin/
+2 SURN Sabin
+2 GIVN Sarah Cecilia
+1 SEX F
+1 BIRT
+2 DATE 10 Jul 1896
+2 PLAC St David,Cochise,Arizona,United States
+1 DEAT
+2 DATE 1997
+1 AFN 2Z82-D7
+1 BAPL
+2 DATE 13 Aug 1904
+1 ENDL
+2 DATE 11 Oct 1916
+2 TEMP SL
+1 _UID 40E933B65EA6D61181E7C6A9006E672AD3BA
+1 FAMC @F4@
+1 SLGC
+2 FAMC @F4@
+2 STAT BIC
+1 NOTE Married = Benjamin Franklin Johnson on 23 July 1915 in Pomerene AZ
+2 CONT 
+2 CONT Birth: St. David Ward Records (#001,883 and #002,449).
+2 CONT 
+2 CONT Marriage: Cochise County, AZ, Book 11, P.79; License dated 20 Jul 1915 was issued, but not re
+2 CONC turned to be recorded.
+2 CONT 
+2 CONT Baptism: #8, P.12 #002,449.
+2 CONT 
+2 CONT Endowment: #5719 Book F, P.236 SL (#184,077)
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:33:05
+0 @I34@ INDI
+1 NAME Theresa Constance /Sabin/
+2 SURN Sabin
+2 GIVN Theresa Constance
+1 SEX F
+1 BIRT
+2 DATE 21 Jul 1901
+2 PLAC St David,Cochise,Arizona,United States
+1 AFN 5NSH-VK
+1 BAPL
+2 DATE 23 Oct 1910
+1 ENDL
+2 DATE 27 Jun 1923
+2 TEMP SL
+1 _UID 41E933B65EA6D61181E7C6A9006E672AD4CA
+1 FAMC @F4@
+1 SLGC
+2 FAMC @F4@
+2 STAT BIC
+1 NOTE Married = Joseph Franklin Scott on 22 December 1922 in Pomerene AZ
+2 CONT 
+2 CONT Birth: #369, St. David Ward Records (#001,883).
+2 CONT 
+2 CONT Marriage:Cochise County, AZ, Book 19, P.315; License issued 21 Dec 1922, but not returned t
+2 CONC o be recorded.
+2 CONT 
+2 CONT Baptism: #369, #001,883.
+2 CONT 
+2 CONT Endowment: #18529 Book F, P.740 SL (#184,078)
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:33:32
+0 @I35@ INDI
+1 NAME William Roger /Sabin/
+2 SURN Sabin
+2 GIVN William Roger
+1 SEX M
+1 BIRT
+2 DATE 18 Feb 1904
+2 PLAC St David,Cochise,Arizona,United States
+1 DEAT
+2 DATE 2 Mar 1949
+2 PLAC Mesa,Maricopa,Arizona,United States
+1 AFN 5NSH-WQ
+1 BAPL
+2 DATE 20 Jul 1912
+1 ENDL
+2 DATE 7 Jan 1942
+2 TEMP ARIZO
+1 _UID 42E933B65EA6D61181E7C6A9006E672AD5DA
+1 FAMC @F4@
+1 SLGC
+2 FAMC @F4@
+2 STAT BIC
+1 NOTE Married = Ada Yancy on 13 August 1936 in Florence AZ
+2 CONT 
+2 CONT Birth: #14, St. David Ward Records (#001,883). On some records William Roger SABIN appears a
+2 CONC s Roger William SABIN.
+2 CONT 
+2 CONT Marriage: Pinal County, AZ, Book 14, P.158, rec. 13 Aug 1936.
+2 CONT 
+2 CONT Death: AZ Death Certificate, State file #1388, Reg. #39.
+2 CONT 
+2 CONT Baptism: Membership Record #155, Pomerene Ward, AZ Conf.-CA Mission (#001,882)
+2 CONT 
+2 CONT Endowement: #3069 Book 9, P.222 AZ (#170,692).
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:55:57
+0 @I36@ INDI
+1 NAME Josiah  /Sabin/
+2 SURN Sabin
+2 GIVN Josiah
+1 SEX M
+1 BIRT
+2 DATE 15 Apr 1747
+2 PLAC Plainfield,Windham,Connecticut
+1 DEAT
+2 DATE 1 Feb 1833
+2 PLAC Bath,Steuben,New York,United States
+1 AFN FVQZ-TS
+1 BAPL
+2 DATE 25 Feb 1952
+1 ENDL
+2 DATE 7 Dec 1955
+1 _UID 43E933B65EA6D61181E7C6A9006E672AD6EA
+1 FAMS @F19@
+1 FAMS @F25@
+1 FAMC @F26@
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:57:05
+0 @I37@ INDI
+1 NAME Lydia  /Cady/
+2 SURN Cady
+2 GIVN Lydia
+1 SEX F
+1 BIRT
+2 DATE 1760
+2 PLAC Dalton,Berkshire,Massachusetts
+1 DEAT
+2 DATE 11 Feb 1849
+2 PLAC Howard,Steuben,New York,United States
+1 AFN FVR1-DS
+1 BAPL
+2 DATE 26 Aug 1884
+1 ENDL
+2 DATE 27 Aug 1884
+1 _UID 46E933B65EA6D61181E7C6A9006E672AD91A
+1 FAMS @F25@
+1 FAMC @F72@
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:24:32
+0 @I38@ INDI
+1 NAME Israel  /Sabin/
+2 SURN Sabin
+2 GIVN Israel
+1 SEX M
+1 BIRT
+2 DATE 7 Aug 1730
+2 PLAC Attleboro,Bristol,Massachusetts
+1 DEAT
+2 DATE 17 Aug 1761
+2 PLAC Plainfield,Windham,Connecticut
+1 _UID 48E933B65EA6D61181E7C6A9006E672ADB3A
+1 FAMS @F26@
+1 FAMC @F27@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I39@ INDI
+1 NAME Josiah  /Sabin/
+2 SURN Sabin
+2 GIVN Josiah
+1 SEX M
+1 BIRT
+2 DATE 3 Jun 1705
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 DATE BEF 1752
+2 PLAC Plainfield,Windham,Connecticut
+1 BAPL
+2 DATE 7 Jun 1930
+1 ENDL
+2 DATE 8 Dec 1930
+2 TEMP AZ
+1 _UID 4AE933B65EA6D61181E7C6A9006E672ADD5A
+1 FAMS @F27@
+1 FAMC @F28@
+1 SLGC
+2 FAMC @F28@
+2 DATE 1 Mar 1973
+2 TEMP LG
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I40@ INDI
+1 NAME Israel  /Sabin/
+2 SURN Sabin
+2 GIVN Israel
+1 SEX M
+1 BIRT
+2 DATE 8 Jun 1673
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE ABT 1718
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 BAPL
+2 DATE 16 Jun 1885
+1 ENDL
+2 DATE 18 Feb 1932
+2 TEMP SL
+1 _UID 4CE933B65EA6D61181E7C6A9006E672ADF7A
+1 FAMS @F28@
+1 FAMS @F29@
+1 FAMC @F30@
+1 SLGC
+2 FAMC @F30@
+2 DATE 6 Sep 1972
+2 TEMP AL
+1 NOTE BIRTH: Also listed as 16 June 1673
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I41@ INDI
+1 NAME Samuel /Sabin/
+2 SURN Sabin
+2 GIVN Samuel
+2 NPFX Sargent
+1 SEX M
+1 BIRT
+2 DATE ABT 1640
+2 PLAC ,,England
+1 DEAT
+2 DATE 23 Sep 1699
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID 4FE933B65EA6D61181E7C6A9006E672AE2AA
+1 FAMS @F30@
+1 FAMC @F31@
+1 NOTE BIRTH: Birth = Probably in England
+2 CONT 
+2 CONT BIRTH: Sources=Mayflower Increasings by Susan Roser
+2 CONT 
+2 CONT BIRTH: Sources=NEHGR Jan 1882 p 523
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 18:32:12
+0 @I42@ INDI
+1 NAME Elizabeth  /Sabin/
+2 SURN Sabin
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 10 Nov 1832
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 3 Apr 1900
+2 PLAC Huntsville,Weber,Utah,United States
+1 BURI
+2 DATE Apr 1900
+2 PLAC Huntsville, Weber, UT
+1 AFN 1BQZ-WM
+1 BAPL
+2 DATE Summer 1844
+1 ENDL
+2 DATE 28 Feb 1852
+1 _UID 51E933B65EA6D61181E7C6A9006E672AE4CA
+1 FAMC @F7@
+2 _PRIMARY Y
+1 FAMC @F60@
+1 SLGC
+2 FAMC @F60@
+2 DATE 28 Jun 1939
+1 SLGC
+2 DATE 28 Jun 1939
+1 NOTE Baptized = during the summer of 1844
+2 CONT 
+2 CONT Children = Hellen Villate, Margret Louisa, Mary Elizabeth, Frederick,
+2 CONT David, Anna Maria, Lester Herrick, Richard Henry, Hyrum, and George.
+2 CONT 
+2 CONT Marriage = [while crossing the plains 1848](?) OR in Salt Lake city 19 July
+2 CONT 1851 to Fredrick G. Froerer (1825-1900)
+2 CONT 
+2 CONT Husband =  Family name is Gfroerer, but he spelled his name Froerer.
+2 CONT Bound out as an apprentice in 1839 in Lancaster.  He became a Mormon
+2 CONT convert in 1843 and and was baptized on the same day as David and his
+2 CONT daughter Elizabeth Sabin In Lancaster.  He moved to St. Louis, Missouri
+2 CONT by 1847.
+2 CONT 
+2 CONT Birth: Film #183,393, Book A, P.30, EHOUS Endowments-Living.
+2 CONT 
+2 CONT Baptism: Film #183,393, Book A, P.30, EHOUS Endowments-Living.
+2 CONT 
+2 CONT Endowments: Film #183,393, Book A, P.30, EHOUS Endowments-Living.
+2 CONT 
+2 CONT Sealed to Parents:AZ Film#170,717, Book 80, P.787, Sealings.
+2 CONT 
+2 CONT Death: Film #321,149, News, Apl 5/1900:7, Utah Obits.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:53:37
+0 @I43@ INDI
+1 NAME Ambrose  /Sabin/
+2 SURN Sabin
+2 GIVN Ambrose
+1 SEX M
+1 BIRT
+2 DATE 3 Aug 1834
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 13 Feb 1908
+2 PLAC Saint David,Cochise,Arizona,United States
+1 BURI
+2 DATE 1908
+1 AFN 18T2-J6
+1 BAPL
+2 DATE 14 Mar 1851
+1 ENDL
+2 DATE 3 Nov 1857
+2 TEMP EHOUS
+1 _UID 52E933B65EA6D61181E7C6A9006E672AE5DA
+1 FAMC @F7@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F7@
+2 DATE 28 Jun 1939
+2 TEMP AZ
+1 FAMC @F60@
+1 SLGC
+2 FAMC @F60@
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 SLGC
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 NOTE Birth = Also 7 Aug 1834
+2 CONT 
+2 CONT Married = Lucy Ann Bellows on 3 Nov 1857, later divorced.
+2 CONT Married = Margaret Jane South on 26 Jan 1871 in S. Frn. Arizona
+2 CONT 
+2 CONT Rebaptized on 14 Mar 1851 in Salt Lake city by John Preace
+2 CONT Confirmed on 14 Mar 1851 in Salt Lake city by Benj. Brown and J. Gailey
+2 CONT 
+2 CONT Birth: Film #183,404, EHOUS Endowments-Living, Book C, P.47, #1208.
+2 CONT 
+2 CONT Baptism: Film #183,404, EHOUS Endowments-Living, Book C, P.47, #1208.
+2 CONT 
+2 CONT Endowment: Film #183,404, EHOUS Endowments-Living, Book C, P.47, #1208.
+2 CONT 
+2 CONT Sealed to Parents: AZ Film #170,717, Sealings, Book 80, P.787.
+2 CONT 
+2 CONT Death: Film #M2287, AZ Deaths, P.1144-45, Ref. #23 (St. David Cemetery).
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:25:44
+0 @I44@ INDI
+1 NAME Anna Magdalena /Baer/
+2 SURN Baer
+2 GIVN Anna Magdalena
+1 SEX F
+1 BIRT
+2 DATE 9 May 1822
+2 PLAC Turbenthal,Zurich,,Switzerland
+1 DEAT
+2 DATE 26 Sep 1888
+2 PLAC Payson,Utah,Utah,United States
+1 _UID 53E933B65EA6D61181E7C6A9006E672AE6EA
+1 FAMS @F67@
+1 FAMS @F8@
+1 NOTE Children = supposedly had 15 children, 2 living at home when married to
+2 CONT David.
+2 CONT 
+2 CONT Rebaptized = 3 April 1879  Payson Utah by William Whitehead
+2 CONT                                               Confirmed by J.W. Huish
+2 CONT 
+2 CONT Rebaptized = 3 Aug 1882  Payson Utah by Jno Finlayson
+2 CONT                                             Confirmed by H.S Boyle
+2 CONT 
+2 CONT Rebaptized = 5 May 1887  Payson Utah by J. Robinson
+2 CONT                                              Confirmed by Joseph Robinson
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I45@ INDI
+1 NAME Mary Ann /Dorwart/
+2 SURN Dorwart
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 28 Nov 1821
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 11 Sep 1822
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 28 Dec 1879
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 _UID 55E933B65EA6D61181E7C6A9006E672AE80A
+1 FAMS @F9@
+1 FAMC @F11@
+1 NOTE Mary Ann was the only sister of Elizabeth to live past infantcy.
+2 CONT 
+2 CONT MARRIAGE: Mary Ann Dorwart was possibly married before being sealed by proxy to David Sabin b
+2 CONC y proxy after both were dead.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I46@ INDI
+1 NAME Henry Dorwart /Sabin/
+2 SURN Sabin
+2 GIVN Henry Dorwart
+1 SEX M
+1 BIRT
+2 DATE 17 Jul 1836
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE AFT 1857
+1 AFN 1BQZ-XS
+1 BAPL
+2 DATE Summer 1844
+1 ENDL
+2 DATE 29 Oct 1855
+2 TEMP EHOUS
+1 _UID 56E933B65EA6D61181E7C6A9006E672AE91A
+1 FAMC @F7@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F7@
+2 DATE 28 Jun 1939
+2 TEMP AZ
+1 FAMC @F60@
+1 SLGC
+2 FAMC @F60@
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 SLGC
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 NOTE Birth = also in Allegheny, Allegheny, Pennsylvania
+2 CONT 
+2 CONT Name = Also Sabins
+2 CONT 
+2 CONT Marriage = Christina Martena Ericksen
+2 CONT Marriage = Mary Jane Simpson
+2 CONT 
+2 CONT 9th Quorum of Seventies 1844 to 1872
+2 CONT 
+2 CONT Birth: Film #183,404, EHOUS Endowments-Living, Book B, P.34, #784.
+2 CONT 
+2 CONT Baptism: Film #183,404, EHOUS Endowments-Living, Book B, P.34, #784.
+2 CONT 
+2 CONT Endowment: Film #183,404, EHOUS Endowments-Living, Book B, P.34, #784.
+2 CONT 
+2 CONT Sealed to Parents: AZ Film #170,717, AZ Sealings, Book 80, P.787.
+2 CONT 
+2 CONT Death: "Left home-never heard of since"-after 1857.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:28:37
+0 @I47@ INDI
+1 NAME Daniel Dorwart /Sabin/
+2 SURN Sabin
+2 GIVN Daniel Dorwart
+1 SEX M
+1 BIRT
+2 DATE 4 Sep 1838
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 23 Jan 1840
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 BURI
+2 DATE 25 Jan 1840
+1 AFN 1MFJ-9F
+1 BAPL
+2 STAT CHILD
+1 ENDL
+2 STAT CHILD
+1 _UID 57E933B65EA6D61181E7C6A9006E672AEA2A
+1 FAMS @F32@
+1 FAMC @F7@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F7@
+2 DATE 28 Jun 1939
+2 TEMP AZ
+1 SLGC
+2 DATE 28 Jun 1939
+1 NOTE Burried = probably in Lancaster Pennsylvania.
+2 CONT 
+2 CONT Sealed to Parents: Film #170,717, AZ Sealings, Book 80, P.787.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 22:00:39
+0 @I48@ INDI
+1 NAME David Dorwart /Sabin/
+2 SURN Sabin
+2 GIVN David Dorwart
+1 SEX M
+1 BIRT
+2 DATE 10 Apr 1841
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 28 Jul 1899
+2 PLAC Salem,Utah,Utah,United States
+1 BURI
+2 DATE 5 Aug 1899
+1 AFN 1BR0-03
+1 BAPL
+2 DATE 6 Sep 1875
+1 ENDL
+2 DATE 24 Nov 1865
+2 TEMP EHOUS
+1 _UID 59E933B65EA6D61181E7C6A9006E672AEC4A
+1 FAMC @F7@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F7@
+2 DATE 28 Jun 1939
+2 TEMP AZ
+1 FAMC @F60@
+1 SLGC
+2 FAMC @F60@
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 SLGC
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 NOTE Marriage = Mary Powell on 20 Jan 1865
+2 CONT 
+2 CONT Marriage = also Mary Powell on 30 Jan 1864
+2 CONT 
+2 CONT Birth: Film #026,401 & 409, Payson Ward Gen. Records (Early to 1891).
+2 CONT 
+2 CONT Baptism: Film #026,401 (1871-94), P.150, Payson. Rebaptised 6 Sep 1875.
+2 CONT 
+2 CONT Endowment: Film #183,405, EHOUS Endowments-Living, Book E, P.179.
+2 CONT 
+2 CONT Sealed to Parents: Film #170,717, AZ Sealings, Book 80, P.787.
+2 CONT 
+2 CONT Death: Film #027,307, ,Salem Ward Records, P.73 (28 Jul 1899), P.72 (27 Jul 1899).
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:26:54
+0 @I50@ INDI
+1 NAME Anna Maria /Sabin/
+2 SURN Sabin
+2 GIVN Anna Maria
+1 SEX F
+1 BIRT
+2 DATE 19 Jul 1846
+2 PLAC St. Louis,St. Louis,Missouri,United States
+1 DEAT
+2 DATE 18 Sep 1895
+2 PLAC Mesa,Wayne,Utah,United States
+1 BURI
+2 DATE 21 Sep 1895
+2 PLAC Lyman, Wayne, UT
+1 AFN 1BQX-72
+1 BAPL
+2 DATE 10 Jun 1854
+1 ENDL
+2 DATE 6 Jul 1861
+2 TEMP EHOUS
+1 _UID 5BE933B65EA6D61181E7C6A9006E672AEE6A
+1 FAMC @F60@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F60@
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 FAMC @F7@
+1 SLGC
+2 FAMC @F7@
+2 DATE 28 Jun 1939
+2 TEMP AZ
+1 SLGC
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 NOTE Birth = also 18 July 1846.
+2 CONT 
+2 CONT Marriage = 6 July 1861 in Salt Lake city to Franklin Wheeler Young
+2 CONT 
+2 CONT Birth: Film #026,401, Payson, Early to 1871.
+2 CONT 
+2 CONT Baptism: Film #026,401, Payson, Early to 1871.
+2 CONT 
+2 CONT Endowment: Film #183,404, Book D, P.11,EHOUS Endowments-Living.
+2 CONT 
+2 CONT Marriage: Film #026,409, Beg. Alpine, UT & Gen Inh. of Payson City, UT as taken in 1861.
+2 CONT 
+2 CONT Sealed to Parents: Film #170,717, AZ Sealings, Book 80, P.787.
+2 CONT 
+2 CONT Death: Film #321,174, Obits, pub SL Papers, News, Sep 24/95/2.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:53:14
+0 @I51@ INDI
+1 NAME Sarah Eleanor /Sabin/
+2 SURN Sabin
+2 GIVN Sarah Eleanor
+1 SEX F
+1 BIRT
+2 DATE 24 Jan 1851
+2 PLAC Salt Lake,Salt Lake,Utah,United States
+1 DEAT
+2 DATE 17 Nov 1934
+2 PLAC Genola,Utah,Utah,United States
+1 BURI
+2 DATE 20 Nov 1934
+2 PLAC Payson, Utah, UT
+1 AFN 2CM1-9G
+1 BAPL
+2 DATE 2 Sep 1869
+1 ENDL
+2 DATE 12 May 1873
+2 TEMP EHOUS
+1 _UID 5CE933B65EA6D61181E7C6A9006E672AEF7A
+1 FAMC @F7@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F7@
+2 DATE 28 Jun 1939
+2 TEMP AZ
+1 FAMC @F60@
+1 SLGC
+2 FAMC @F60@
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 SLGC
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 NOTE Birth = Also 24 Jan 1851
+2 CONT 
+2 CONT Name = Also Sarah Ella
+2 CONT 
+2 CONT Married = 4 april 1870 in Payson to Samuel Francom
+2 CONT 
+2 CONT Birth: Film #026,409, Payson Ward Records, Early to 1871
+2 CONT 
+2 CONT Baptism: Film #026,401, Payson 1855-71, P.169
+2 CONT 
+2 CONT Endowment: Film #183,407, EHOUS Endowments-Living, Book H, P.40, #903.
+2 CONT 
+2 CONT Sealed to Parents: Film #170,717, AZ Sealings, Book 80, P.787.
+2 CONT 
+2 CONT Death: #321,148, Obits: SL Tribune, 1934, Nov 19, P.14; Deseret News 1934, Nov 19, P.15.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:55:36
+0 @I52@ INDI
+1 NAME Amanda Catherine /Sabin/
+2 SURN Sabin
+2 GIVN Amanda Catherine
+1 SEX F
+1 BIRT
+2 DATE 8 Jan 1856
+2 PLAC Salt Lake,Salt Lake,Utah,United States
+1 DEAT
+2 DATE 30 Apr 1902
+2 PLAC Benjamine,Utah,Utah,United States
+1 BURI
+2 PLAC Payson, Utah, UT
+1 AFN 515J-ZX
+1 BAPL
+2 DATE 4 Aug 1862
+1 ENDL
+2 DATE 12 May 1873
+2 TEMP EHOUS
+1 _UID 5DE933B65EA6D61181E7C6A9006E672AF08A
+1 FAMC @F60@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F60@
+2 STAT BIC
+1 FAMC @F7@
+1 SLGC
+2 FAMC @F7@
+2 STAT BIC
+1 SLGC
+2 STAT BIC
+1 NOTE Rebaptized on 4 Aug 1870
+2 CONT 
+2 CONT Married = 25 Dec 1870 in Salt Lake city (or Payson) to Johannes Staheli
+2 CONT or John Staheli
+2 CONT 
+2 CONT Death =  maybe Payson Utah
+2 CONT 
+2 CONT Birth: Film #026,401 & 409, Payson Ward Gen. Records, 1861.
+2 CONT 
+2 CONT Baptism: Film #026,401, Payson 1871-94, P.163.
+2 CONT 
+2 CONT Endowment: Film #183,407, Book H, P.40, EHOUS Endowments-Living.
+2 CONT 
+2 CONT Death: Index Record of Burials, Payson City Cemetery, Payson, UT
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:56:40
+0 @I53@ INDI
+1 NAME Lydia Deseret /Sabin/
+2 SURN Sabin
+2 GIVN Lydia Deseret
+1 SEX F
+1 BIRT
+2 DATE 28 Sep 1857
+2 PLAC Salt Lake,Salt Lake,UT,United States
+1 DEAT
+2 DATE May 1858
+2 PLAC Payson,Utah,Utah,United States
+1 AFN PC3F-RJ
+1 BAPL
+2 STAT CHILD
+1 ENDL
+2 STAT CHILD
+1 _UID 5EE933B65EA6D61181E7C6A9006E672AF19A
+1 FAMC @F7@
+2 _PRIMARY Y
+1 FAMC @F60@
+1 SLGC
+2 FAMC @F60@
+2 STAT BIC
+1 SLGC
+2 STAT BIC
+1 NOTE Birth = also 8 Jan 1854 Salt Lake city
+2 CONT 
+2 CONT Death = 16 March 1859
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:54:01
+0 @I54@ INDI
+1 NAME Elizabeth Ann /Smith/
+2 SURN Smith
+2 GIVN Elizabeth Ann
+1 SEX F
+1 BIRT
+2 DATE 5 Jan 1863
+2 PLAC Lawrence,Essex,Mass,United States
+1 DEAT
+2 DATE 13 Mar 1903
+1 BAPL
+2 DATE 8 Aug 1869
+1 ENDL
+2 DATE 8 Nov 1908
+2 TEMP SG
+1 _UID 5FE933B65EA6D61181E7C6A9006E672AF2AA
+1 FAMC @F16@
+1 NOTE Adopted = by Charles Pears Smith, natural father unknown
+2 CONT 
+2 CONT Married = Francis Goodman on 12 May 1877.  Francis' middle name may
+2 CONT have been Valentine.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I55@ INDI
+1 NAME Charles William /Smith/
+2 SURN Smith
+2 GIVN Charles William
+1 SEX M
+1 BIRT
+2 DATE 24 Jan 1864
+2 PLAC Beaver City,Beaver,Utah,United States
+1 DEAT
+2 DATE 3 Jan 1956
+1 _UID 60E933B65EA6D61181E7C6A9006E672AF3BA
+1 FAMC @F16@
+1 NOTE Married to Ida Alfretta Smith on 6 May 1892
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I56@ INDI
+1 NAME John Walter /Smith/
+2 SURN Smith
+2 GIVN John Walter
+1 SEX M
+1 BIRT
+2 DATE 16 Jul 1868
+2 PLAC St Thomas,,Neveda,United States
+1 DEAT
+2 DATE 18 Mar 1871
+1 BAPL
+2 STAT CHILD
+1 ENDL
+2 STAT CHILD
+1 _UID 61E933B65EA6D61181E7C6A9006E672AF4CA
+1 FAMC @F16@
+1 SLGC
+2 FAMC @F16@
+2 STAT BIC
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I57@ INDI
+1 NAME Mary Wilkinson /Smith/
+2 SURN Smith
+2 GIVN Mary Wilkinson
+1 SEX F
+1 BIRT
+2 DATE 22 Oct 1870
+2 PLAC St Thomas,,Neveda,United States
+1 DEAT
+2 DATE 28 Feb 1945
+1 BAPL
+2 DATE 31 May 1902
+1 ENDL
+2 DATE 4 Nov 1908
+2 TEMP SG
+1 _UID 62E933B65EA6D61181E7C6A9006E672AF5DA
+1 FAMC @F16@
+1 SLGC
+2 FAMC @F16@
+2 STAT BIC
+1 NOTE Married to Charles Riley Plumb on 8 Mar 1888
+2 CONT 
+2 CONT Rebaptized on 31 May 1902
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I58@ INDI
+1 NAME Emma  /Smith/
+2 SURN Smith
+2 GIVN Emma
+1 SEX F
+1 BIRT
+2 DATE 28 Nov 1872
+2 PLAC Long Valley,Kane,Utah,United States
+1 DEAT
+2 DATE 28 Jul 1873
+1 BAPL
+2 STAT CHILD
+1 ENDL
+2 STAT CHILD
+1 _UID 63E933B65EA6D61181E7C6A9006E672AF6EA
+1 FAMC @F16@
+1 SLGC
+2 FAMC @F16@
+2 STAT BIC
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I59@ INDI
+1 NAME Joseph Wilkinson /Smith/
+2 SURN Smith
+2 GIVN Joseph Wilkinson
+1 SEX M
+1 BIRT
+2 DATE 23 Aug 1874
+2 PLAC Glendale,Kane,Utah,United States
+1 DEAT
+2 DATE 3 Nov 1943
+1 BAPL
+2 DATE 17 Aug 1924
+1 ENDL
+2 DATE 4 Dec 1954
+2 TEMP AZ
+1 _UID 64E933B65EA6D61181E7C6A9006E672AF7FA
+1 FAMC @F16@
+1 SLGC
+2 FAMC @F16@
+2 STAT BIC
+1 NOTE Place Glendale is also known as Long Valley
+2 CONT 
+2 CONT Married to Bonnie Lee Wagner on 15 Mar 1911
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I60@ INDI
+1 NAME Martha Alfretta /Smith/
+2 SURN Smith
+2 GIVN Martha Alfretta
+1 SEX F
+1 BIRT
+2 DATE 2 Dec 1876
+2 PLAC Randolph,Richland,Utah,United States
+1 DEAT
+2 DATE 14 Dec 1958
+1 BAPL
+2 DATE 8 Sep 1906
+1 ENDL
+2 DATE 2 Apr 1908
+2 TEMP SL
+1 _UID 65E933B65EA6D61181E7C6A9006E672AF80A
+1 FAMC @F16@
+1 SLGC
+2 FAMC @F16@
+2 STAT BIC
+1 NOTE Married to Branick Benjamin Riggs on 16 Nov 1896
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I61@ INDI
+1 NAME Samuel  /Smith/
+2 SURN Smith
+2 GIVN Samuel
+1 SEX M
+1 BIRT
+2 DATE 13 Jan 1879
+2 PLAC Ashley,Uinta,Utah,United States
+1 DEAT
+2 DATE 5 Mar 1940
+1 BAPL
+2 DATE 1 Sep 1895
+1 ENDL
+2 DATE 30 Oct 1942
+2 TEMP AZ
+1 _UID 66E933B65EA6D61181E7C6A9006E672AF91A
+1 FAMC @F16@
+1 SLGC
+2 FAMC @F16@
+2 STAT BIC
+1 NOTE Place  Ashley was later changed to Vernal
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I62@ INDI
+1 NAME Thomas Albert /Smith/
+2 SURN Smith
+2 GIVN Thomas Albert
+1 SEX M
+1 BIRT
+2 DATE 4 Jun 1881
+2 PLAC Ashley,,Utah,United States
+1 DEAT
+2 DATE 6 Oct 1956
+1 BAPL
+2 DATE 3 Feb 1951
+1 ENDL
+2 DATE 30 Jan 1954
+2 TEMP AZ
+1 _UID 67E933B65EA6D61181E7C6A9006E672AFA2A
+1 FAMC @F16@
+1 SLGC
+2 FAMC @F16@
+2 STAT BIC
+1 NOTE Place Ashley latter changed to Vernal
+2 CONT 
+2 CONT Married to Ella Beneta Patternson on 24 Mar 1934
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I63@ INDI
+1 NAME Hyrum Leroy /Smith/
+2 SURN Smith
+2 GIVN Hyrum Leroy
+1 SEX M
+1 BIRT
+2 DATE 22 Jun 1884
+2 PLAC Pleasanton,Secora,New Mexico,United States
+1 DEAT
+2 DATE 2 Jun 1971
+1 BAPL
+2 DATE 6 Jul 1895
+1 ENDL
+2 DATE 12 Apr 1906
+2 TEMP AZ
+1 _UID 68E933B65EA6D61181E7C6A9006E672AFB3A
+1 FAMC @F16@
+1 SLGC
+2 FAMC @F16@
+2 STAT BIC
+1 NOTE Married = Laura McBride on 12 April 1906
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I64@ INDI
+1 NAME Parley John /Sabin/
+2 SURN Sabin
+2 GIVN Parley John
+1 SEX M
+1 BIRT
+2 DATE 28 Sep 1878
+2 PLAC Payson,Utah,Utah,United States
+1 CHR
+2 DATE 7 Nov 1878
+2 PLAC Payson,Utah,Utah,United States
+1 DEAT
+2 DATE 12 Jul 1950
+2 PLAC Bisbee,Cochise,Arizona,United States
+1 BAPL
+2 DATE 28 Sep 1886
+1 ENDL
+2 DATE 25 Jan 1961
+2 TEMP ARIZO
+1 _UID 78E933B65EA6D61181E7C6A9006E672A0B3A
+1 FAMC @F6@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F6@
+2 STAT BIC
+1 FAMC @F14@
+1 SLGC
+2 FAMC @F14@
+2 STAT BIC
+1 FAMC @F58@
+1 SLGC
+2 FAMC @F58@
+2 STAT BIC
+1 FAMC @F50@
+1 SLGC
+2 FAMC @F50@
+2 STAT BIC
+1 NOTE Name = Also John Parley Sabin
+2 CONT 
+2 CONT Married = Hattie Bell on 5 November 1906 in Tombstone AZ
+2 CONT 
+2 CONT Parley John SABIN is the name on Payson Ward records. It is John Parley, the name he used, o
+2 CONC n St. David Ward records and on father's application for war pension.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:54:10
+0 @I65@ INDI
+1 NAME Eleanor  //
+2 GIVN Eleanor
+1 SEX F
+1 _UID A4E933B65EA6D61181E7C6A9006E672A37FA
+1 FAMS @F18@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I67@ INDI
+1 NAME Pearl Elizabeth /SABIN/
+2 SURN SABIN
+2 GIVN Pearl Elizabeth
+2 _AKA Pearly
+1 SEX F
+1 BIRT
+2 DATE 6 Aug 1876
+2 PLAC Payson,Utah,Utah,United States
+1 CHR
+2 DATE 7 Sep 1876
+2 PLAC Payson,Utah,Utah,United States
+1 DEAT
+2 DATE 27 Aug 1956
+2 PLAC Mesa,Maricopa,Arizona,United States
+1 BAPL
+2 DATE 4 Sep 1884
+1 ENDL
+2 DATE 17 Jun 1908
+2 TEMP SLAKE
+1 _UID 2EEA33B65EA6D61181E7C6A9006E672AC2A9
+1 FAMC @F6@
+2 _PRIMARY Y
+1 FAMC @F14@
+1 SLGC
+2 FAMC @F14@
+2 STAT BIC
+1 FAMC @F58@
+1 SLGC
+2 FAMC @F58@
+2 STAT BIC
+1 FAMC @F50@
+1 SLGC
+2 FAMC @F50@
+2 STAT BIC
+1 NOTE Married = John Kenneth McRae (1867 - 1957) on 28 February 1895 in St
+2 CONT David AZ
+2 CONT 
+2 CONT Birth: Payson Ward Records, Birth and Blessings (GS #026,401)
+2 CONT M:Cochise County Arizona Territory, Book 2, P. 147, filed 1 Mar 1895.
+2 CONT D: Arizona Death Cert., file #5167, Reg.#192,Rec. 27 Aug 1956.
+2 CONT Bap.:(1) "By Moses Curtis" and year,#429, St. David Ward records
+2 CONT           (GS #002,449); (2) GS #934,372
+2 CONT 
+2 CONT End.: #8031 Book C, p. 298 Salt Lake
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:54:25
+0 @I68@ INDI
+1 NAME Sarah Celinda /Sabin/
+2 SURN Sabin
+2 GIVN Sarah Celinda
+1 SEX F
+1 BIRT
+2 DATE 25 May 1793
+2 PLAC Otego,Otsego,New York,United States
+1 DEAT
+2 DATE Aug 1864
+2 PLAC Logan,Cache,Utah,United States
+1 BAPL
+2 DATE 28 Apr 1844
+1 ENDL
+2 DATE 3 Apr 1857
+2 TEMP EH
+1 _UID 2FEA33B65EA6D61181E7C6A9006E672AC3B9
+1 FAMC @F25@
+1 SLGC
+2 FAMC @F25@
+2 DATE 20 Oct 1982
+2 TEMP JR
+1 NOTE Name = know as Sally to her family
+2 CONT 
+2 CONT Marriage=28 DEC 1811 in Smithfield, Dutchess, NY to William Fuller Card
+2 CONT 
+2 CONT Also = may have married Zenas Pratt in Broome county New York
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I69@ INDI
+1 NAME Irene May /Sabin/
+2 SURN Sabin
+2 GIVN Irene May
+1 SEX F
+1 BIRT
+2 DATE 23 May 1885
+2 PLAC Curtis,Graham,Arizona,United States
+1 DEAT
+2 DATE 6 Sep 1969
+1 BAPL
+2 DATE 7 May 1895
+1 ENDL
+2 DATE 26 Mar 1928
+2 TEMP ARIZO
+1 _UID 30EA33B65EA6D61181E7C6A9006E672AC4C9
+1 FAMC @F6@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F6@
+2 STAT BIC
+1 FAMC @F14@
+1 SLGC
+2 FAMC @F14@
+2 STAT BIC
+1 FAMC @F58@
+1 SLGC
+2 FAMC @F58@
+2 STAT BIC
+1 FAMC @F50@
+1 SLGC
+2 FAMC @F50@
+2 STAT BIC
+1 NOTE Birth = Curtis later changed to Eden Arizona
+2 CONT 
+2 CONT Married = Orson Pratt Merrill on 27 April 1904 in Thatcher AZ
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:28:52
+0 @I70@ INDI
+1 NAME Mary  /Billington/
+2 SURN Billington
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1640
+2 PLAC Plymouth,,Plymouth
+1 CHR
+2 DATE 19 Apr 1696
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 DATE ABT 1717
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID 31EA33B65EA6D61181E7C6A9006E672AC5D9
+1 FAMS @F30@
+1 FAMC @F33@
+1 NOTE Baptism=Rehoboth Church, NEHGR, Vol 15, Jan 1861.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I71@ INDI
+1 NAME Mary  /Ormsby/
+2 SURN Ormsby
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 4 Apr 1677
+2 PLAC Rehoboth,Bristol,Plymouth
+1 DEAT
+2 DATE 8 Dec 1715
+2 PLAC Swansea,Bristol,Massachusetts
+1 _UID 33EA33B65EA6D61181E7C6A9006E672AC7F9
+1 FAMS @F28@
+1 FAMC @F34@
+1 NOTE Parents also listed as John Ormsby and Grace Martin
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I72@ INDI
+1 NAME Israel /Sabin/
+2 SURN Sabin
+2 GIVN Israel
+1 SEX M
+1 BIRT
+2 DATE 8 Oct 1701
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 BAPL
+2 DATE 7 Jun 1930
+1 ENDL
+2 DATE 21 Oct 1930
+2 TEMP AZ
+1 _UID 35EA33B65EA6D61181E7C6A9006E672AC919
+1 FAMC @F28@
+1 SLGC
+2 FAMC @F28@
+2 DATE 1 Mar 1973
+2 TEMP LG
+1 NOTE Marriage=Chloe about 1740
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 22:04:04
+0 @I73@ INDI
+1 NAME Mary  /Gay/
+2 SURN Gay
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1700
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID 36EA33B65EA6D61181E7C6A9006E672ACA29
+1 FAMS @F27@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I74@ INDI
+1 NAME John  /Sabin/
+2 SURN Sabin
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 30 Apr 1736
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 DATE 10 Jan 1758
+2 PLAC Bolton,Chittenden,Vermont
+1 BAPL
+2 DATE 23 Mar 1920
+1 ENDL
+2 DATE 26 Sep 1933
+2 TEMP SL
+1 _UID 37EA33B65EA6D61181E7C6A9006E672ACB39
+1 FAMC @F27@
+1 SLGC
+2 FAMC @F27@
+2 DATE 8 Dec 1954
+2 TEMP AL
+1 NOTE Fought in the Revolutionary War
+2 CONT 
+2 CONT Marriage=Kezia Barsto on 23 June 1823 in Rehoboth Bristol MA
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I75@ INDI
+1 NAME Mercy  /Sabin/
+2 SURN Sabin
+2 GIVN Mercy
+1 SEX F
+1 BIRT
+2 DATE 8 Mar 1666/1667
+2 PLAC Rehoboth,,Plymouth
+1 CHR
+2 DATE 15 Sep 1706
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 DATE 18 Jun 1728
+2 PLAC Killingly,Windham,Connecticut
+1 BAPL
+2 DATE 6 May 1972
+2 TEMP AL
+1 ENDL
+2 DATE 20 May 1972
+2 TEMP AL
+1 _UID 38EA33B65EA6D61181E7C6A9006E672ACC49
+1 FAMC @F30@
+1 SLGC
+2 FAMC @F30@
+2 DATE 6 Sep 1972
+2 TEMP AL
+1 NOTE Name = Also called Marcy
+2 CONT 
+2 CONT Marriage=to James Welch Sr on 9 Nov 1683
+2 CONT 
+2 CONT Baptism=Rehoboth Church, NEHGR, Vol 15, Jan 1861.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I76@ INDI
+1 NAME Margaret  /Sabin/
+2 SURN Sabin
+2 GIVN Margaret
+1 SEX F
+1 BIRT
+2 DATE 5 Feb 1706/1707
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 DATE AFT 1748
+2 PLAC Lyme,New London,Connecticut
+1 BAPL
+2 DATE 5 Mar 1918
+1 ENDL
+2 DATE 29 Feb 1924
+2 TEMP SL
+1 _UID 39EA33B65EA6D61181E7C6A9006E672ACD59
+1 FAMC @F28@
+1 SLGC
+2 FAMC @F28@
+2 DATE 3 Nov 1949
+2 TEMP SL
+1 NOTE Married = 8 Aug 1737 in Lyme Connecticut, to Robert Otis born 1707
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I77@ INDI
+1 NAME Martha  /Sabin/
+2 SURN Sabin
+2 GIVN Martha
+1 SEX F
+1 BIRT
+2 DATE 20 Nov 1715
+2 PLAC Swansea,Bristol,Massachusetts
+1 DEAT
+2 DATE 29 Nov 1715
+2 PLAC Swansea,Bristol,Massachusetts
+1 BAPL
+2 DATE 5 Mar 1918
+1 ENDL
+2 DATE 26 Mar 1924
+2 TEMP SL
+1 _UID 3AEA33B65EA6D61181E7C6A9006E672ACE69
+1 FAMC @F28@
+1 SLGC
+2 FAMC @F28@
+2 DATE 3 Dec 1975
+2 TEMP MT
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I78@ INDI
+1 NAME Mary  /Sabin/
+2 SURN Sabin
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 1 Jun 1711
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 DATE 10 May 1795
+2 PLAC Gill,Franklin,Massachusetts
+1 BAPL
+2 DATE 12 Jan 1945
+1 ENDL
+2 DATE 20 Feb 1945
+2 TEMP SL
+1 _UID 3BEA33B65EA6D61181E7C6A9006E672ACF79
+1 FAMC @F28@
+1 SLGC
+2 FAMC @F28@
+2 DATE 5 Dec 1974
+2 TEMP OG
+1 NOTE Name = Also Saben
+2 CONT 
+2 CONT Birth = Also 15 Jun 1712 in Attleboro, Bristol, MA
+2 CONT 
+2 CONT Marriage=Daniel Slate on 23 Sept 1731 in Norwich New London CT
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I79@ INDI
+1 NAME Thomas  /Sabin/
+2 SURN Sabin
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE 25 Oct 1798
+2 PLAC Cazenovia,Madison,New York,United States
+1 AFN 35J2-P0
+1 BAPL
+2 DATE 28 Aug 1872
+1 ENDL
+2 DATE 27 Aug 1884
+1 _UID 3CEA33B65EA6D61181E7C6A9006E672AD089
+1 FAMC @F10@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F10@
+2 DATE 28 Jun 1939
+2 TEMP AZ
+1 SLGC
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 NOTE census = 1840 of Hudson, Lenawee, WI p 72
+2 CONT 
+2 CONT Line 1345 from GEDCOM File not recognizable or too long:
+2 CONT   ENDL 27 AUG 1884 12 NOV 1890
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:33:18
+0 @I80@ INDI
+1 NAME Elizabeth  /Sabin/
+2 SURN Sabin
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 15 Sep 1800
+2 PLAC Cazenovia,Madison,New York,United States
+1 AFN 35J2-RB
+1 BAPL
+2 DATE 9 Jun 1924
+1 ENDL
+2 DATE 5 May 1925
+1 _UID 3DEA33B65EA6D61181E7C6A9006E672AD199
+1 FAMC @F10@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F10@
+2 DATE 26 Jun 1939
+1 SLGC
+2 DATE 28 Jun 1939
+1 NOTE Name = Also Elenor
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:27:55
+0 @I82@ INDI
+1 NAME Joseph  /Sabin/
+2 SURN Sabin
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE 24 Dec 1804
+2 PLAC Cazenovia,Madison,New York,United States
+1 AFN 35J2-SH
+1 BAPL
+2 DATE 28 Aug 1872
+2 TEMP EH
+1 ENDL
+2 DATE 13 Nov 1890
+2 TEMP NT
+1 _UID 3FEA33B65EA6D61181E7C6A9006E672AD3B9
+1 FAMC @F10@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F10@
+2 DATE 28 Jun 1939
+2 TEMP AZ
+1 SLGC
+2 DATE 28 Jun 1939
+2 TEMP ARIZO
+1 NOTE Name = also Josiah Sabin
+2 CONT 
+2 CONT Census = 1830 of Salisbury, Herkimer, NY p 68
+2 CONT 
+2 CONT Line 1378 from GEDCOM File not recognizable or too long:
+2 CONT   ENDL 13 NOV 1890 MT 11 JUN 1924 SL
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:59:42
+0 @I84@ INDI
+1 NAME Sarah  /Sabin/
+2 SURN Sabin
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 11 Sep 1811
+2 PLAC Cazenovia,Madison,New York,United States
+1 AFN 35J2-VT
+1 BAPL
+2 DATE 9 Jun 1924
+1 ENDL
+2 DATE 16 Jun 1925
+1 _UID 41EA33B65EA6D61181E7C6A9006E672AD5D9
+1 FAMC @F10@
+2 _PRIMARY Y
+1 SLGC
+2 FAMC @F10@
+2 DATE 28 Jun 1939
+1 SLGC
+2 DATE 28 Jun 1939
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:55:47
+0 @I85@ INDI
+1 NAME Josiah D /Sabin/
+2 SURN Sabin
+2 GIVN Josiah D
+1 SEX M
+1 BIRT
+2 DATE ABT 1774
+2 PLAC ,Madison,New York,United States
+1 DEAT
+2 DATE 20 Feb 1812
+2 PLAC Cazenovia,Madison,New York,United States
+1 BAPL
+2 DATE 1 Nov 1890
+1 ENDL
+2 DATE 22 Apr 1926
+2 TEMP SL
+1 _UID 42EA33B65EA6D61181E7C6A9006E672AD6E9
+1 FAMC @F19@
+1 NOTE Marriage=Sally about 1809
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I86@ INDI
+1 NAME Phoebe  /Sabin/
+2 SURN Sabin
+2 GIVN Phoebe
+1 SEX F
+1 BIRT
+2 DATE ABT 1776
+1 AFN PC3F-ZK
+1 _UID 43EA33B65EA6D61181E7C6A9006E672AD7F9
+1 FAMC @F19@
+1 NOTE Marriage=Mr. Shepherd
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:31:17
+0 @I87@ INDI
+1 NAME Avis  /Sabin/
+2 SURN Sabin
+2 GIVN Avis
+1 SEX F
+1 BIRT
+2 DATE ABT 1800
+2 PLAC ,Madison,New York,United States
+1 AFN KLR3-7S
+1 BAPL
+2 DATE 23 Sep 1874
+2 TEMP EH
+1 ENDL
+2 DATE 6 Mar
+2 TEMP SL
+1 _UID 44EA33B65EA6D61181E7C6A9006E672AD809
+1 FAMC @F25@
+1 NOTE Marriage = Ezra Michols before 1823 in Madison NY
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:25:25
+0 @I88@ INDI
+1 NAME William Cady /Sabin/
+2 SURN Sabin
+2 GIVN William Cady
+1 SEX M
+1 BIRT
+2 DATE 25 Apr 1787
+2 PLAC Otego,Otsego,New York,United States
+1 DEAT
+2 DATE ABT 1868
+1 AFN KLR2-VX
+1 BAPL
+2 DATE 23 Sep 1874
+1 ENDL
+2 DATE 9 Jul 1922
+1 _UID 45EA33B65EA6D61181E7C6A9006E672AD919
+1 FAMC @F25@
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:57:31
+0 @I89@ INDI
+1 NAME William  /Sabin/
+2 SURN Sabin
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE ABT 1609
+2 PLAC Tichfield,Hampshire,England,United Kingdom
+1 CHR
+2 DATE 11 Oct 1609
+2 PLAC Tichfield,Hampshire,England,United Kingdom
+1 DEAT
+2 DATE 17 Jul 1687
+2 PLAC Rehoboth,Bristol,Plymouth
+1 BURI
+2 PLAC Rehoboth,Bristol,Plymouth
+1 _UID 49EA33B65EA6D61181E7C6A9006E672ADD59
+1 FAMS @F31@
+1 FAMS @F35@
+1 NOTE Occupation is Miller of Rehoboth
+2 CONT 
+2 CONT BURIAL: Buried in Newman Cemetary in what is now East Providence Rhode Island.
+2 CONT 
+2 CONT MARRIAGE: First marriage probably in England
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 18:35:13
+0 @I90@ INDI
+1 NAME Francis  /Billington/
+2 SURN Billington
+2 GIVN Francis
+1 SEX M
+1 BIRT
+2 DATE ABT 1606
+1 DEAT
+2 DATE 3 Dec 1684
+2 PLAC Middleboro
+1 _UID 4CEA33B65EA6D61181E7C6A9006E672AE089
+1 FAMS @F33@
+1 NOTE There is also another child born before 1651
+2 CONT 
+2 CONT BIRTH: Possibly in Lincolnshire
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I91@ INDI
+1 NAME Christian  /Penn/
+2 SURN Penn
+2 GIVN Christian
+1 SEX F
+1 BIRT
+2 DATE 2 Sep 1613
+1 DEAT
+2 DATE ABT 1686
+1 _UID 4EEA33B65EA6D61181E7C6A9006E672AE2A9
+1 FAMS @F33@
+1 FAMS @F36@
+1 NOTE Name also given as Christiana
+2 CONT 
+2 CONT MARRIAGE: First married to Francis Eaton
+2 CONT Second to Francis Billington
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I92@ INDI
+1 NAME Elizabeth  /Billington/
+2 SURN Billington
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 10 Jul 1635
+2 PLAC Plymouth
+1 DEAT
+2 DATE ABT 1709
+1 _UID 55EA33B65EA6D61181E7C6A9006E672AE919
+1 FAMC @F33@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I93@ INDI
+1 NAME Joseph  /Billington/
+2 SURN Billington
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE ABT 1636/1637
+2 PLAC Plymouth
+1 DEAT
+2 DATE ABT 1684/1685
+2 PLAC Block Island,,Ri,United States
+1 _UID 56EA33B65EA6D61181E7C6A9006E672AEA29
+1 FAMC @F33@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I94@ INDI
+1 NAME Martha  /Billington/
+2 SURN Billington
+2 GIVN Martha
+1 SEX F
+1 BIRT
+2 DATE ABT 1638
+2 PLAC Plymouth
+1 DEAT
+2 DATE 1704/1722
+1 _UID 57EA33B65EA6D61181E7C6A9006E672AEB39
+1 FAMC @F33@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I95@ INDI
+1 NAME Isaac  /Billington/
+2 SURN Billington
+2 GIVN Isaac
+1 SEX M
+1 BIRT
+2 DATE ABT 1644
+1 DEAT
+2 DATE 11 Dec 1709
+2 PLAC Middleboro
+1 _UID 58EA33B65EA6D61181E7C6A9006E672AEC49
+1 FAMC @F33@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I96@ INDI
+1 NAME Rebecca  /Billington/
+2 SURN Billington
+2 GIVN Rebecca
+1 SEX F
+1 BIRT
+2 DATE 8 Jun 1647
+1 _UID 59EA33B65EA6D61181E7C6A9006E672AED59
+1 FAMC @F33@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I97@ INDI
+1 NAME Dorcas  /Billington/
+2 SURN Billington
+2 GIVN Dorcas
+1 SEX F
+1 BIRT
+2 DATE ABT 1644
+2 PLAC Plymouth
+1 DEAT
+2 DATE ABT 1777
+1 _UID 5AEA33B65EA6D61181E7C6A9006E672AEE69
+1 FAMC @F33@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I98@ INDI
+1 NAME Mercy  /Billington/
+2 SURN Billington
+2 GIVN Mercy
+1 SEX M
+1 BIRT
+2 DATE 25 Feb 1651/1652
+2 PLAC Plymouth
+1 DEAT
+2 DATE 28 Sep 1718
+2 PLAC Rehoboth,Bristol,MA,United States
+1 _UID 5BEA33B65EA6D61181E7C6A9006E672AEF79
+1 FAMC @F33@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I99@ INDI
+1 NAME Mary  /Wright/
+2 SURN Wright
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1620
+2 PLAC Stanton,Lincolnshire,England
+1 DEAT
+2 DATE 27 Sep 1660
+2 PLAC Rehoboth,,Plymouth
+1 BURI
+2 PLAC Rehoboth,,Plymouth
+1 _UID 5DEA33B65EA6D61181E7C6A9006E672AF199
+1 FAMS @F31@
+1 NOTE Name is also listed as Elizabeth
+2 CONT 
+2 CONT MARRIAGE: Probably in England
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I100@ INDI
+1 NAME Avis  /Bennett/
+2 SURN Bennett
+2 GIVN Avis
+1 SEX F
+1 BIRT
+2 DATE 19 Oct 1729
+2 PLAC Preston,New London,Connecticut
+1 DEAT
+2 DATE ABT 1815
+2 PLAC Whiting,Addison,Vermont,United States
+1 _UID 5FEA33B65EA6D61181E7C6A9006E672AF3B9
+1 FAMS @F26@
+1 FAMC @F37@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I101@ INDI
+1 NAME Martha  /Allen/
+2 SURN Allen
+2 GIVN Martha
+1 SEX F
+1 BIRT
+2 DATE 11 Dec 1641
+2 PLAC Medfield,Norfolk,Massachusetts
+1 DEAT
+2 DATE 11 Jan 1734
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID 61EA33B65EA6D61181E7C6A9006E672AF5D9
+1 FAMS @F35@
+1 NOTE Birth=11 Feb 1641/42
+2 CONT Dedham, Norfolk, MA
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I102@ INDI
+1 NAME James  /Sabin/
+2 SURN Sabin
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 1 Jan 1665
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 11 Dec 1748
+1 _UID 64EA33B65EA6D61181E7C6A9006E672AF809
+1 FAMC @F35@
+1 NOTE Marriage=Abigail Brazier on 16 OCT 1689 in Rehoboth
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I103@ INDI
+1 NAME John /Sabin/
+2 SURN Sabin
+2 GIVN John
+2 NPFX Major
+1 SEX M
+1 BIRT
+2 DATE 27 Oct 1666
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 26 Oct 1742
+1 BURI
+2 PLAC Pomfret,Windham,Connecticut
+1 _UID 65EA33B65EA6D61181E7C6A9006E672AF919
+1 FAMC @F35@
+1 NOTE Marriage=Sarah Peck on 3 SEP 1689 in Rehoboth
+2 CONT 
+2 CONT Major John Sabin moved to Connecticut in 1696 and built an outpost at
+2 CONT Massamugget, later called Pomfret Connecticut.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 22:04:56
+0 @I104@ INDI
+1 NAME Hezekiah  /Sabin/
+2 SURN Sabin
+2 GIVN Hezekiah
+1 SEX M
+1 BIRT
+2 DATE 3 Apr 1669
+2 PLAC Rehoboth,,Plymouth
+1 BURI
+2 DATE 9 Jan 1688/1689
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID 66EA33B65EA6D61181E7C6A9006E672AFA29
+1 FAMC @F35@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I105@ INDI
+1 NAME Noah  /Sabin/
+2 SURN Sabin
+2 GIVN Noah
+1 SEX M
+1 BIRT
+2 DATE 4 Mar 1671
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 19 Jan 1690/1691
+2 PLAC Anticostia Is.,St. Lawrence,PQ,Canada
+1 _UID 67EA33B65EA6D61181E7C6A9006E672AFB39
+1 FAMC @F35@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I106@ INDI
+1 NAME Mehitabel  /Sabin/
+2 SURN Sabin
+2 GIVN Mehitabel
+1 SEX F
+1 BIRT
+2 DATE 16 May 1673
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 27 Sep 1751
+1 _UID 68EA33B65EA6D61181E7C6A9006E672AFC49
+1 FAMC @F35@
+1 NOTE Marriage=Joseph Bucklin II on 30 JUN 1691 in Rehoboth
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I107@ INDI
+1 NAME Mary  /Sabin/
+2 SURN Sabin
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 8 Sep 1675
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 1711/1712
+1 _UID 69EA33B65EA6D61181E7C6A9006E672AFD59
+1 FAMC @F35@
+1 NOTE Marriage=Nathaniel Cooper on 8 DEC 1696 in Rehoboth
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I108@ INDI
+1 NAME Sarah  /Sabin/
+2 SURN Sabin
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 16 Feb 1678/1679
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 9 Mar 1708/1709
+1 _UID 6AEA33B65EA6D61181E7C6A9006E672AFE69
+1 FAMC @F35@
+1 NOTE Marriage=Jonathan Shorey on 2 AUG 1704 in Rehoboth
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I109@ INDI
+1 NAME Margaret  /Sabin/
+2 SURN Sabin
+2 GIVN Margaret
+1 SEX F
+1 BIRT
+2 DATE 30 Apr 1680
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 10 Jul 1697
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID 6BEA33B65EA6D61181E7C6A9006E672AFF79
+1 FAMC @F35@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I110@ INDI
+1 NAME Elizabeth  /Sabin/
+2 SURN Sabin
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE ABT 1642
+1 DEAT
+2 DATE 7 Feb 1717/1718
+1 _UID 6CEA33B65EA6D61181E7C6A9006E672A0089
+1 FAMC @F31@
+1 NOTE Birth = Probably in England
+2 CONT 
+2 CONT Married = Robert Millard, 24 Nov 1662 in Rehoboth
+2 CONT 
+2 CONT Married = Samuel Howard
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I111@ INDI
+1 NAME Joseph  /Sabin/
+2 SURN Sabin
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE 24 Jun 1645
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 10 Aug 1690
+1 _UID 6DEA33B65EA6D61181E7C6A9006E672A0199
+1 FAMC @F31@
+1 NOTE Married = Waitstill Snow on 21 July 1725 in Rehoboth Bristol MA
+2 CONT This was her second marriage after Jarrett (or Jared) Ingraham
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I112@ INDI
+1 NAME Benjamine /Sabin/
+2 SURN Sabin
+2 GIVN Benjamine
+2 NPFX Deacon
+1 SEX M
+1 BIRT
+2 DATE 3 Jul 1646
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 21 Jul 1725
+1 BURI
+2 PLAC Pomfret,Windham,Connecticut
+1 _UID 6EEA33B65EA6D61181E7C6A9006E672A02A9
+1 FAMC @F31@
+1 NOTE Marriage=Sarah Polley about 1668 in Rehoboth
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 18:25:10
+0 @I113@ INDI
+1 NAME Nehemiah  /Sabin/
+2 SURN Sabin
+2 GIVN Nehemiah
+1 SEX M
+1 BIRT
+2 DATE 28 May 1647
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE Jun 1676
+1 _UID 6FEA33B65EA6D61181E7C6A9006E672A03B9
+1 FAMC @F31@
+1 NOTE Marriage=Elizabeth Fuller on 1 AUG 1672 in Rehoboth
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I114@ INDI
+1 NAME Experience  /Sabin/
+2 SURN Sabin
+2 GIVN Experience
+1 SEX F
+1 BIRT
+2 DATE 8 Aug 1648
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 14 Aug 1728
+2 PLAC Medfield,Norfolk,Massachusetts
+1 _UID 70EA33B65EA6D61181E7C6A9006E672A04C9
+1 FAMC @F31@
+1 NOTE Marriage=Samuel Bullin on 20 AUG 1672 in Rehoboth
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I115@ INDI
+1 NAME Mary  /Sabin/
+2 SURN Sabin
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 25 Jul 1652
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 24 Apr 1675
+1 _UID 71EA33B65EA6D61181E7C6A9006E672A05D9
+1 FAMC @F31@
+1 NOTE Name = also called  Mercy.
+2 CONT 
+2 CONT Marriage=Nathaniel Allen in APR 1674 in Rehoboth
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I116@ INDI
+1 NAME Abigail  /Sabin/
+2 SURN Sabin
+2 GIVN Abigail
+1 SEX F
+1 BIRT
+2 DATE 8 Nov 1653
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 1 Jul 1721
+2 PLAC Medfield,Norfolk,Massachusetts
+1 _UID 72EA33B65EA6D61181E7C6A9006E672A06E9
+1 FAMC @F31@
+1 NOTE Marriage=Joseph Bullin on 15 MAY 1674 in Medfield, Norfolk, MA
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I117@ INDI
+1 NAME Hannah  /Sabin/
+2 SURN Sabin
+2 GIVN Hannah
+1 SEX F
+1 BIRT
+2 DATE 22 Dec 1654
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 1729/1730
+1 _UID 73EA33B65EA6D61181E7C6A9006E672A07F9
+1 FAMC @F31@
+1 NOTE Marriage=Joseph Allen on 10 NOV 1673 in Rehoboth
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I118@ INDI
+1 NAME Patience  /Sabin/
+2 SURN Sabin
+2 GIVN Patience
+1 SEX F
+1 BIRT
+2 DATE 31 Dec 1655
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE ABT 1711
+1 _UID 74EA33B65EA6D61181E7C6A9006E672A0809
+1 FAMC @F31@
+1 NOTE Marriage=Jacob Dana on 10 NOV 1673 in Rehoboth
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I119@ INDI
+1 NAME Jeremiah  /Sabin/
+2 SURN Sabin
+2 GIVN Jeremiah
+1 SEX M
+1 BIRT
+2 DATE 24 Mar 1657
+2 PLAC Rehoboth,,Plymouth
+1 _UID 75EA33B65EA6D61181E7C6A9006E672A0919
+1 FAMC @F31@
+1 NOTE Jeremiah probably died at childbirth
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I120@ INDI
+1 NAME Sarah  /Sabin/
+2 SURN Sabin
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 27 Sep 1660
+2 PLAC Rehoboth,,Plymouth
+1 _UID 76EA33B65EA6D61181E7C6A9006E672A0A29
+1 FAMC @F31@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I121@ INDI
+1 NAME Israel  /Sabin/
+2 SURN Sabin
+2 GIVN Israel
+1 SEX M
+1 BIRT
+2 DATE 1752
+1 DEAT
+2 DATE 31 Oct 1838
+1 _UID 85EA33B65EA6D61181E7C6A9006E672A1919
+1 FAMC @F26@
+1 NOTE Married = Hannah before 1786.  She was born 1756 in Plainfield,
+2 CONT Windhan, Connecticut, and died after 1799.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I122@ INDI
+1 NAME William  /Sabin/
+2 SURN Sabin
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 10 May 1754
+2 PLAC ,Essex,Massachusetts
+1 DEAT
+2 DATE 14 Apr 1832
+2 PLAC Sudbury,Middlesex,Massachusetts,United States
+1 _UID 86EA33B65EA6D61181E7C6A9006E672A1A29
+1 FAMC @F26@
+1 NOTE Marriage=Maria Cady
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I123@ INDI
+1 NAME Avis  /Sabin/
+2 SURN Sabin
+2 GIVN Avis
+1 SEX F
+1 BIRT
+2 DATE ABT 1755
+2 PLAC Plainfield,Windham,Connecticut
+1 DEAT
+2 DATE 26 Nov 1795
+1 BURI
+2 PLAC Griswold,Windham,Connecticut
+1 _UID 87EA33B65EA6D61181E7C6A9006E672A1B39
+1 FAMC @F26@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I124@ INDI
+1 NAME Nathaniel  /Sabin/
+2 SURN Sabin
+2 GIVN Nathaniel
+1 SEX M
+1 BIRT
+2 DATE ABT 1759
+1 DEAT
+2 DATE 7 Feb 1831
+1 _UID 88EA33B65EA6D61181E7C6A9006E672A1C49
+1 FAMC @F26@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I125@ INDI
+1 NAME Elizabeth  /Sabin/
+2 SURN Sabin
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE ABT 1760
+2 PLAC ,,Connecticut
+1 DEAT
+2 DATE Sep 1843
+1 _UID 89EA33B65EA6D61181E7C6A9006E672A1D59
+1 FAMC @F26@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I126@ INDI
+1 NAME Uriah  /Sabin/
+2 SURN Sabin
+2 GIVN Uriah
+1 SEX M
+1 BIRT
+2 DATE 25 Jul 1725
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 DATE 1747/1748
+2 PLAC Attleboro,Bristol,Massachusetts
+1 _UID 8FEA33B65EA6D61181E7C6A9006E672A23B9
+1 FAMC @F27@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I127@ INDI
+1 NAME William  /Sabin/
+2 SURN Sabin
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 31 Jul 1728
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID 90EA33B65EA6D61181E7C6A9006E672A24C9
+1 FAMC @F27@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I128@ INDI
+1 NAME Mary  /Sabin/
+2 SURN Sabin
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 6 Aug 1733
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID 91EA33B65EA6D61181E7C6A9006E672A25D9
+1 FAMC @F27@
+1 NOTE Marriage=Noah Sanders on 7 Feb 1754 in Rehoboth Bristol MA
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I129@ INDI
+1 NAME Nathaniel  /Sabin/
+2 SURN Sabin
+2 GIVN Nathaniel
+1 SEX M
+1 BIRT
+2 DATE 11 Aug 1738
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 DATE 13 Jan 1761
+2 PLAC Plainfield,Windham,CT
+1 _UID 92EA33B65EA6D61181E7C6A9006E672A26E9
+1 FAMC @F27@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I130@ INDI
+1 NAME Daniel  /Sabin/
+2 SURN Sabin
+2 GIVN Daniel
+1 SEX M
+1 BIRT
+2 DATE 31 Jul 1741
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID 93EA33B65EA6D61181E7C6A9006E672A27F9
+1 FAMC @F27@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I131@ INDI
+1 NAME Timothy  /Sabin/
+2 SURN Sabin
+2 GIVN Timothy
+1 SEX M
+1 CHR
+2 DATE 9 Sep 1744
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID 94EA33B65EA6D61181E7C6A9006E672A2809
+1 FAMC @F27@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I132@ INDI
+1 NAME Francis  /Eaton/
+2 SURN Eaton
+2 GIVN Francis
+1 SEX M
+1 _UID 96EA33B65EA6D61181E7C6A9006E672A2A29
+1 FAMS @F36@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I133@ INDI
+1 NAME Jacob  /Ormsbee/
+2 SURN Ormsbee
+2 GIVN Jacob
+1 SEX M
+1 BIRT
+2 DATE Mar 1647/1648
+2 PLAC Salsbury,,MA
+1 BURI
+2 DATE 16 Mar 1677
+2 PLAC Rehoboth,Bristol,MA
+1 _UID A1EA33B65EA6D61181E7C6A9006E672A35D9
+1 FAMS @F34@
+1 FAMC @F38@
+1 NOTE Name=also Ormsby
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I135@ INDI
+1 NAME Mary  /Ormsbee/
+2 SURN Ormsbee
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 21 Nov 1672
+1 _UID A6EA33B65EA6D61181E7C6A9006E672A3A29
+1 FAMC @F34@
+1 NOTE More than likely she died young, since her sister is also named Mary.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I136@ INDI
+1 NAME Jacob  /Ormsbee/
+2 SURN Ormsbee
+2 GIVN Jacob
+1 SEX M
+1 BIRT
+2 DATE 23 Aug 1674
+1 BURI
+2 DATE 24 Feb 1676
+1 _UID A7EA33B65EA6D61181E7C6A9006E672A3B39
+1 FAMC @F34@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I151@ INDI
+1 NAME Samuel /Sabin/
+2 SURN Sabin
+2 GIVN Samuel
+1 SEX M
+1 BIRT
+2 DATE 27 Sep 1664
+2 PLAC Rehoboth,,Plymouth
+1 CHR
+2 DATE 13 Aug 1704
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 DATE 7 Oct 1746
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID C1EA33B65EA6D61181E7C6A9006E672A55D9
+1 FAMC @F30@
+1 NOTE Marriage=Grace Ormsby on ABT 1746
+2 CONT 
+2 CONT Baptism=Rehoboth Church, NEHGR, Vol 15, Jan 1861.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 18:31:52
+0 @I152@ INDI
+1 NAME Sarah  /Sabin/
+2 SURN Sabin
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 10 Aug 1667
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 9 Mar 1708/1709
+2 PLAC ,Windham,Connecticut
+1 _UID C2EA33B65EA6D61181E7C6A9006E672A56E9
+1 FAMC @F30@
+1 NOTE Name = Also known as Sari
+2 CONT 
+2 CONT Married = John Kingsley on 1 July 1686
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I153@ INDI
+1 NAME Experience  /Sabin/
+2 SURN Sabin
+2 GIVN Experience
+1 SEX M
+1 BIRT
+2 DATE 5 Oct 1676
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE 28 Nov 1676
+2 PLAC Rehoboth,,Plymouth
+1 _UID C3EA33B65EA6D61181E7C6A9006E672A57F9
+1 FAMC @F30@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I154@ INDI
+1 NAME Mary  /Sabin/
+2 SURN Sabin
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 4 Mar 1678/1679
+2 PLAC Rehoboth,,Plymouth
+1 DEAT
+2 DATE ABT 1690
+1 _UID C4EA33B65EA6D61181E7C6A9006E672A5809
+1 FAMC @F30@
+1 NOTE Marriage=Nathaniel Cooper
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I155@ INDI
+1 NAME Sarah  /Sabin/
+2 SURN Sabin
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 26 Mar 1697
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 DATE ABT 1717
+1 _UID C5EA33B65EA6D61181E7C6A9006E672A5919
+1 FAMC @F28@
+1 NOTE Baptism=Rehoboth Church, NEHGR, Vol 15, Jan 1861.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I156@ INDI
+1 NAME Elizabeth  /Sabin/
+2 SURN Sabin
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 31 Mar 1698
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID C6EA33B65EA6D61181E7C6A9006E672A5A29
+1 FAMC @F28@
+1 NOTE Baptism=Rehoboth Church, NEHGR, Vol 15, Jan 1861.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I157@ INDI
+1 NAME Samuel  /Sabin/
+2 SURN Sabin
+2 GIVN Samuel
+1 SEX M
+1 BIRT
+2 DATE 21 Jan 1699/1700
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID C7EA33B65EA6D61181E7C6A9006E672A5B39
+1 FAMC @F28@
+1 NOTE Marriage=Hannah Hall on 7 Nov 1727 in Rehoboth Bristol MA
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I158@ INDI
+1 NAME Jeremiah  /Sabin/
+2 SURN Sabin
+2 GIVN Jeremiah
+1 SEX M
+1 BIRT
+2 DATE 26 Aug 1703
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 DATE AFT 1736
+1 _UID C8EA33B65EA6D61181E7C6A9006E672A5C49
+1 FAMC @F28@
+1 NOTE Marriage=Mary Abbot on 23 Sept 1724 in Upper Kittery (Berwick Maine)
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I159@ INDI
+1 NAME William  /Sabin/
+2 SURN Sabin
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 14 Oct 1708
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 DEAT
+2 DATE AFT 1745
+1 _UID C9EA33B65EA6D61181E7C6A9006E672A5D59
+1 FAMC @F28@
+1 NOTE Marriage=Phebe Eddy on 17 May 1733 in Rehoboth Bristol MA
+2 CONT 
+2 CONT Marriage=2nd to Elizabeth Atwell
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I160@ INDI
+1 NAME Eleazer  /Sabin/
+2 SURN Sabin
+2 GIVN Eleazer
+1 SEX M
+1 BIRT
+2 DATE 21 Feb 1709/1710
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 _UID CAEA33B65EA6D61181E7C6A9006E672A5E69
+1 FAMC @F28@
+1 NOTE Death = He died young.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I161@ INDI
+1 NAME Eleazer  /Sabin/
+2 SURN Sabin
+2 GIVN Eleazer
+1 SEX M
+1 BIRT
+2 DATE 21 Jul 1713
+2 PLAC Swansea,Bristol,Massachusetts
+1 _UID CBEA33B65EA6D61181E7C6A9006E672A5F79
+1 FAMC @F28@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I162@ INDI
+1 NAME Elizabeth  /Nichols/
+2 SURN Nichols
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE ABT 1750
+1 DEAT
+2 DATE BEF 1779
+1 _UID CCEA33B65EA6D61181E7C6A9006E672A6089
+1 FAMS @F19@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I163@ INDI
+1 NAME Zilpha  /Sabin/
+2 SURN Sabin
+2 GIVN Zilpha
+1 SEX F
+1 BIRT
+2 DATE ABT 1782
+2 PLAC ,Madison,New York,United States
+1 DEAT
+2 DATE 5 Aug 1832
+2 PLAC Perryville,Madison,New York,United States
+1 AFN PC3G-BF
+1 BAPL
+2 DATE 23 Sep 1874
+2 TEMP EHOUS
+1 ENDL
+2 DATE 11 Mar 1885
+2 TEMP LOGAN
+1 _UID CDEA33B65EA6D61181E7C6A9006E672A6199
+1 FAMC @F25@
+1 NOTE Marriage=ABT 1814 to Peter Harry Lansing
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:34:27
+0 @I164@ INDI
+1 NAME Nathaniel  /Sabin/
+2 SURN Sabin
+2 GIVN Nathaniel
+1 SEX M
+1 BIRT
+2 DATE Aug 1785
+2 PLAC ,Rensselaer,New York,United States
+1 DEAT
+2 DATE AFT 1850
+2 PLAC Birdsall,Allegany,New York,United States
+1 AFN KLR2-SL
+1 BAPL
+2 DATE 23 Sep 1874
+1 ENDL
+2 DATE 11 Mar 1885
+1 _UID CEEA33B65EA6D61181E7C6A9006E672A62A9
+1 FAMC @F25@
+1 NOTE Marriage=Fanny ABT 1807 in New York
+2 CONT 
+2 CONT Children=Roxanna, Cyrenius W, Ransom H, Abigail, John H.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:30:44
+0 @I166@ INDI
+1 NAME Rufus C /Sabin/
+2 SURN Sabin
+2 GIVN Rufus C
+1 SEX M
+1 BIRT
+2 DATE ABT 1788
+2 PLAC Otsego, Otsego, NY
+1 DEAT
+2 DATE 30 Mar 1871
+2 PLAC , , MI
+1 AFN KLR0-Q0
+1 BAPL
+2 DATE 23 Sep 1874
+1 ENDL
+2 DATE Mar 1885
+1 _UID D0EA33B65EA6D61181E7C6A9006E672A64C9
+1 FAMC @F25@
+1 NOTE Marriage=ABT 1804 to Elizabeth C Casey
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:55:15
+0 @I167@ INDI
+1 NAME Samuel  /Sabin/
+2 SURN Sabin
+2 GIVN Samuel
+1 SEX M
+1 BIRT
+2 DATE 27 Feb 1794
+2 PLAC Cazenovia,Madison,New York,United States
+1 DEAT
+2 DATE 11 Nov 1872
+2 PLAC Bristol,Kenosha,Wisconsin,United States
+1 AFN KLR2-X9
+1 BAPL
+2 DATE 23 Sep 1874
+1 ENDL
+2 DATE 20 Mar 1885
+1 _UID D1EA33B65EA6D61181E7C6A9006E672A65D9
+1 FAMC @F25@
+1 NOTE Marriage=18 MAR 1819 in NY to Charity Miller
+2 CONT 
+2 CONT Marriage=ABT 1820 to Susan Swift
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:32:51
+0 @I168@ INDI
+1 NAME Salmon B /Sabin/
+2 SURN Sabin
+2 GIVN Salmon B
+1 SEX M
+1 BIRT
+2 DATE 24 Dec 1795
+2 PLAC Otego,Otsego,New York,United States
+1 DEAT
+2 DATE 19 Dec 1866
+2 PLAC Forest,Fond du Lac,Wisconsin,United States
+1 BURI
+2 PLAC Forest, Fon Du Lac, WI
+1 AFN 1TMD-ZC
+1 BAPL
+2 DATE 23 Sep 1874
+1 ENDL
+2 DATE 19 Mar 1885
+1 _UID D2EA33B65EA6D61181E7C6A9006E672A66E9
+1 FAMS @F42@
+1 FAMC @F25@
+1 NOTE Marriage=17 OCT 1816 in New York to Sarah S Miller
+2 CONT 
+2 CONT Son=Ara Williams Sabin
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:32:19
+0 @I169@ INDI
+1 NAME Elizabeth  /Sabin/
+2 SURN Sabin
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 1 Jun 1798
+2 PLAC ,Madison,New York,United States
+1 DEAT
+2 DATE 29 Dec 1864
+2 PLAC ,Steuben,New York,United States
+1 AFN KLR3-34
+1 BAPL
+2 DATE 23 Sep 1874
+1 ENDL
+2 DATE Jan 1918
+1 _UID D4EA33B65EA6D61181E7C6A9006E672A6809
+1 FAMC @F25@
+1 NOTE Marriage=ABT 1823 in NY to Nehemiah Sherwood
+2 CONT 
+2 CONT Census = 1820 of NY, Wheeler, Steuben v 31, p 50
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:28:08
+0 @I170@ INDI
+1 NAME Lavina  /Sabin/
+2 SURN Sabin
+2 GIVN Lavina
+1 SEX F
+1 BIRT
+2 DATE 1 Jun 1798
+2 PLAC ,Madison,New York,United States
+1 AFN KLR3-5G
+1 BAPL
+2 DATE 23 Sep 1874
+1 ENDL
+2 DATE 6 Mar 1918
+1 _UID D5EA33B65EA6D61181E7C6A9006E672A6919
+1 FAMC @F25@
+1 NOTE Marriage=ABT 1818 in NY to Leonard Miller
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:29:34
+0 @I171@ INDI
+1 NAME Anna  /Sabin/
+2 SURN Sabin
+2 GIVN Anna
+1 SEX F
+1 BIRT
+2 DATE ABT 1802
+2 PLAC Cazenovia,Madison,New York,United States
+1 AFN KLR0-Z6
+1 BAPL
+2 DATE 23 Sep 1874
+1 ENDL
+2 DATE 6 Mar 1918
+1 _UID D6EA33B65EA6D61181E7C6A9006E672A6A29
+1 FAMC @F25@
+1 NOTE Marriage=ABT 1824 in Danville, Steuben, New  York to Jonathan Helmer
+2 CONT Bradley
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:26:17
+0 @I172@ INDI
+1 NAME Octavia Caroline /Sabin/
+2 SURN Sabin
+2 GIVN Octavia Caroline
+1 SEX F
+1 BIRT
+2 DATE 7 May 1875
+2 PLAC Payson,Utah,Utah,United States
+1 DEAT
+2 DATE 7 Aug 1875
+2 PLAC Payson,Utah,Utah,United States
+1 BURI
+2 PLAC Payson,Utah,Utah,United States
+1 BAPL
+2 STAT CHILD
+1 _UID D7EA33B65EA6D61181E7C6A9006E672A6B39
+1 FAMC @F6@
+2 _PRIMARY Y
+1 FAMC @F14@
+1 SLGC
+2 FAMC @F14@
+2 STAT BIC
+1 FAMC @F58@
+1 SLGC
+2 FAMC @F58@
+2 STAT BIC
+1 FAMC @F50@
+1 SLGC
+2 FAMC @F50@
+2 STAT BIC
+1 NOTE Blessed=1 July 1875 in Payson Utah
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:31:06
+0 @I173@ INDI
+1 NAME Florette Mable /Sabin/
+2 SURN Sabin
+2 GIVN Florette Mable
+1 SEX F
+1 BIRT
+2 DATE 6 Oct 1880
+2 PLAC Payson,Utah,Utah,United States
+1 CHR
+2 DATE 6 Jan 1881
+2 PLAC Payson,Utah,Utah,United States
+1 DEAT
+2 DATE 24 Nov 1913
+1 BAPL
+2 DATE 4 Feb 1892
+1 ENDL
+2 DATE 13 Feb 1931
+2 TEMP ARIZO
+1 _UID D8EA33B65EA6D61181E7C6A9006E672A6C49
+1 FAMC @F6@
+2 _PRIMARY Y
+1 FAMC @F14@
+1 SLGC
+2 FAMC @F14@
+2 STAT BIC
+1 FAMC @F58@
+1 SLGC
+2 FAMC @F58@
+2 STAT BIC
+1 FAMC @F50@
+1 SLGC
+2 FAMC @F50@
+2 STAT BIC
+1 NOTE Moved from Payson Utah to Curtis, St. David, and Bisbee Arizona
+2 CONT 
+2 CONT Marries John Henry Sabin on 1 Jan 1900 at St. David Arizona
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:28:25
+0 @I174@ INDI
+1 NAME Elizabeth  /Williams/
+2 SURN Williams
+2 GIVN Elizabeth
+1 SEX F
+1 _UID D9EA33B65EA6D61181E7C6A9006E672A6D59
+1 FAMS @F29@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I175@ INDI
+1 NAME Thomas  /Joslin/
+2 SURN Joslin
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE 26 Sep 1750
+2 PLAC West Greenwich,Kent,Rhode Island
+1 _UID 00EB33B65EA6D61181E7C6A9006E672A95D8
+1 FAMS @F20@
+1 FAMC @F43@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I177@ INDI
+1 NAME Thomas  /Joslin/
+2 SURN Joslin
+2 GIVN Thomas
+1 SEX M
+1 _UID 03EB33B65EA6D61181E7C6A9006E672A9808
+1 FAMC @F20@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I179@ INDI
+1 NAME Noah  /Joslin/
+2 SURN Joslin
+2 GIVN Noah
+1 SEX M
+1 _UID 05EB33B65EA6D61181E7C6A9006E672A9A28
+1 FAMC @F20@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I180@ INDI
+1 NAME Eleanor  /Joslin/
+2 SURN Joslin
+2 GIVN Eleanor
+1 SEX F
+1 _UID 06EB33B65EA6D61181E7C6A9006E672A9B38
+1 FAMC @F20@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I181@ INDI
+1 NAME Ruth  /Joslin/
+2 SURN Joslin
+2 GIVN Ruth
+1 SEX F
+1 _UID 07EB33B65EA6D61181E7C6A9006E672A9C48
+1 FAMC @F20@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I203@ INDI
+1 NAME Kenneth Smith /Shumway/
+2 SURN Shumway
+2 GIVN Kenneth Smith
+1 SEX M
+1 BIRT
+2 DATE ABT 1905
+1 CHR
+2 DATE ABT 1913
+1 _UID 24E933B65EA6D61181E7C6A9006E672AB7FA
+1 FAMC @F45@
+1 NOTE Called Ken by his family.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I204@ INDI
+1 NAME Priscilla  /Shumway/
+2 SURN Shumway
+2 GIVN Priscilla
+1 SEX F
+1 _UID 22E933B65EA6D61181E7C6A9006E672AB5DA
+1 FAMC @F45@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I223@ INDI
+1 NAME Nephi Grant /Shumway/
+2 SURN Shumway
+2 GIVN Nephi Grant
+1 SEX M
+1 BIRT
+2 DATE 8 Mar 1925
+2 PLAC Chandler,Maricopa,Arizona,United States
+1 DEAT
+2 DATE ABT 1944
+1 BURI
+2 PLAC ,,,Holland
+1 _UID 23E933B65EA6D61181E7C6A9006E672AB6EA
+1 FAMC @F45@
+1 NOTE Called Grant (or Buddy) by his family.
+2 CONT 
+2 CONT Named for a rich and famous uncle.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I224@ INDI
+1 NAME Howard Burton /Shumway/
+2 SURN Shumway
+2 GIVN Howard Burton
+1 SEX M
+1 BIRT
+2 DATE 5 Mar 1901
+1 DEAT
+2 DATE ABT 1933
+1 _UID 21E933B65EA6D61181E7C6A9006E672AB4CA
+1 FAMC @F45@
+1 NOTE Called Burton by his family.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I225@ INDI
+1 NAME William Howard /Shumway/
+2 SURN Shumway
+2 GIVN William Howard
+1 SEX M
+1 BIRT
+2 DATE 20 Jul 1877
+2 PLAC Johnson,Kane,UT,United States
+1 DEAT
+2 DATE 20 Jun 1945
+2 PLAC Mesa,Maricopa,Arizona,United States
+1 BURI
+2 DATE 24 Jun 1945
+2 PLAC Mesa,Maricopa,Arizona,United States
+1 BAPL
+2 DATE 4 Mar 1886
+1 ENDL
+2 DATE 5 Oct 1898
+1 _UID 80E833B65EA6D61181E7C6A9006E672A12AB
+1 FAMS @F45@
+1 SLGC
+2 STAT BIC
+1 NOTE Age = 74
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I226@ INDI
+1 NAME Lucy  /Smith/
+2 SURN Smith
+2 GIVN Lucy
+1 SEX F
+1 BIRT
+2 DATE 24 Jun 1880
+2 PLAC Snowflake,Navajo,AZ,United States
+1 DEAT
+2 DATE 15 Nov 1951
+2 PLAC Prescott,Navajo,AZ,United States
+1 BURI
+2 PLAC Prescott,Navajo,AZ,United States
+1 _UID 82E833B65EA6D61181E7C6A9006E672A14CB
+1 FAMS @F45@
+1 NOTE Location = Her history indicates that Snowflake is in Apache county.
+2 CONT 
+2 CONT Friend = She knows the person who wrote "High on a Mountain Top"
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I227@ INDI
+1 NAME Margaret  /Shumway/
+2 SURN Shumway
+2 GIVN Margaret
+1 SEX F
+1 BIRT
+2 DATE 10 Feb 1920
+2 PLAC Mesa,Maricopa,Arizona,United States
+1 _UID 1CE933B65EA6D61181E7C6A9006E672AAF7A
+1 FAMC @F45@
+1 NOTE She was called Madge by her family.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I231@ INDI
+1 NAME Lucy  /Shumway/
+2 SURN Shumway
+2 GIVN Lucy
+1 SEX F
+1 _UID 2AE933B65EA6D61181E7C6A9006E672ABD5A
+1 FAMC @F45@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I232@ INDI
+1 NAME Elizabeth  /Shumway/
+2 SURN Shumway
+2 GIVN Elizabeth
+1 SEX F
+1 _UID 26E933B65EA6D61181E7C6A9006E672AB91A
+1 FAMC @F45@
+1 NOTE Called Libby by her family.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I234@ INDI
+1 NAME Charles Richard /Shumway/
+2 SURN Shumway
+2 GIVN Charles Richard
+1 SEX M
+1 BIRT
+2 DATE 12 Aug 1907
+1 _UID 25E933B65EA6D61181E7C6A9006E672AB80A
+1 FAMC @F45@
+1 NOTE Called Rich by his family.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I235@ INDI
+1 NAME Jesse N Smith/Shumway/
+2 SURN Shumway
+2 GIVN Jesse N Smith
+1 SEX M
+1 _UID 27E933B65EA6D61181E7C6A9006E672ABA2A
+1 FAMC @F45@
+1 NOTE Called Jess by his family.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I236@ INDI
+1 NAME Janet  /Shumway/
+2 SURN Shumway
+2 GIVN Janet
+1 SEX F
+1 _UID 28E933B65EA6D61181E7C6A9006E672ABB3A
+1 FAMC @F45@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I238@ INDI
+1 NAME Julia Rosalind /Shumway/
+2 SURN Shumway
+2 GIVN Julia Rosalind
+1 SEX F
+1 BIRT
+2 DATE 20 Apr 1922
+2 PLAC Mesa,Maricopa,Arizona,United States
+1 _UID 29E933B65EA6D61181E7C6A9006E672ABC4A
+1 FAMC @F45@
+1 NOTE She was called Rosey by her family.
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I239@ INDI
+1 NAME William  /Bennett/
+2 SURN Bennett
+2 GIVN William
+1 SEX M
+1 _UID 7FEB33B65EA6D61181E7C6A9006E672A14C8
+1 FAMS @F37@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I240@ INDI
+1 NAME Elizabeth  /Green/
+2 SURN Green
+2 GIVN Elizabeth
+1 SEX F
+1 _UID 80EB33B65EA6D61181E7C6A9006E672A15D8
+1 FAMS @F37@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I241@ INDI
+1 NAME Henry  /Dorwart/
+2 SURN Dorwart
+2 GIVN Henry
+1 SEX M
+1 BIRT
+2 DATE 19 Aug 1805
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 15 Sep 1805
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 27 Aug 1823
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 _UID 84EB33B65EA6D61181E7C6A9006E672A1918
+1 FAMC @F11@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I242@ INDI
+1 NAME William  /Dorwart/
+2 SURN Dorwart
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 26 May 1807
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 21 Jan 1807
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 PLAC New Lisbon,Columbiana,Ohio,United States
+1 _UID 85EB33B65EA6D61181E7C6A9006E672A1A28
+1 FAMC @F11@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I243@ INDI
+1 NAME Daniel  /Dorwart/
+2 SURN Dorwart
+2 GIVN Daniel
+1 SEX M
+1 BIRT
+2 DATE 25 Jun 1809
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 23 Jul 1809
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 13 Mar 1894
+2 PLAC Friend,Saline,Nebraska,United States
+1 _UID 86EB33B65EA6D61181E7C6A9006E672A1B38
+1 FAMC @F11@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I244@ INDI
+1 NAME Martin  /Dorwart/
+2 SURN Dorwart
+2 GIVN Martin
+1 SEX M
+1 BIRT
+2 DATE 17 Mar 1813
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 24 Mar 1813
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 _UID 87EB33B65EA6D61181E7C6A9006E672A1C48
+1 FAMC @F11@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I245@ INDI
+1 NAME Samuel  /Dorwart/
+2 SURN Dorwart
+2 GIVN Samuel
+1 SEX M
+1 BIRT
+2 DATE 7 Jan 1815
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 16 Jan 1815
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 9 Jul 1845
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 _UID 88EB33B65EA6D61181E7C6A9006E672A1D58
+1 FAMC @F11@
+1 NOTE Christened=First Reformed Church
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I246@ INDI
+1 NAME Jonathan  /Dorwart/
+2 SURN Dorwart
+2 GIVN Jonathan
+1 SEX M
+1 BIRT
+2 DATE 10 Sep 1816
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 1 Dec 1816
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 7 Dec 1882
+2 PLAC ,,Pennsylvania,United States
+1 _UID 89EB33B65EA6D61181E7C6A9006E672A1E68
+1 FAMC @F11@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I247@ INDI
+1 NAME David  /Dorwart/
+2 SURN Dorwart
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE 14 Jul 1818
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 16 Aug 1818
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 22 Jun 1898
+1 _UID 8AEB33B65EA6D61181E7C6A9006E672A1F78
+1 FAMC @F11@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I248@ INDI
+1 NAME Anna Maria /Dorwart/
+2 SURN Dorwart
+2 GIVN Anna Maria
+1 SEX F
+1 BIRT
+2 DATE 16 Aug 1820
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 21 Sep 1820
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 21 Sep 1820
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 _UID 8BEB33B65EA6D61181E7C6A9006E672A2088
+1 FAMC @F11@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I249@ INDI
+1 NAME Martin  /Dorwart/
+2 SURN Dorwart
+2 GIVN Martin
+1 SEX M
+1 BIRT
+2 DATE 16 Jan 1823
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 22 Apr 1823
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 7 Jul 1823
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 BURI
+2 DATE 7 Jul 1823
+1 _UID 8CEB33B65EA6D61181E7C6A9006E672A2198
+1 FAMC @F11@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I250@ INDI
+1 NAME Margaretta  /Dorwart/
+2 SURN Dorwart
+2 GIVN Margaretta
+1 SEX F
+1 BIRT
+2 DATE 28 Jan 1824
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 22 Aug 1824
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 30 Aug 1824
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 _UID 8DEB33B65EA6D61181E7C6A9006E672A22A8
+1 FAMC @F11@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I251@ INDI
+1 NAME Rebecca  /Dorwart/
+2 SURN Dorwart
+2 GIVN Rebecca
+1 SEX F
+1 BIRT
+2 DATE 8 Sep 1826
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 CHR
+2 DATE 1 Oct 1826
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 DEAT
+2 DATE 8 Sep 1827
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 _UID 8EEB33B65EA6D61181E7C6A9006E672A23B8
+1 FAMC @F11@
+1 CHAN
+2 DATE 2 Aug 2002
+3 TIME 00:00:00
+0 @I254@ INDI
+1 NAME Hans Jacob /Ott/
+2 SURN Ott
+2 GIVN Hans Jacob
+1 SEX M
+1 _UID 540BC9D1A0EED61181E79F8A4A34F60D80B1
+1 FAMS @F67@
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 21:07:43
+0 @I271@ INDI
+1 NAME Donna Geraldine /SABIN/
+2 SURN SABIN
+2 GIVN Donna Geraldine
+1 SEX F
+1 BIRT
+2 DATE 12 Jun 1932
+2 PLAC Gilbert, Maricopa, AZ
+1 BAPL
+2 DATE 6 Jul 1940
+1 ENDL
+2 DATE 24 Jun 1953
+2 TEMP ARIZO
+1 _UID 253FADF37BEED61181E79F8A4A34F60D6643
+1 SLGC
+2 STAT BIC
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:27:15
+0 @I274@ INDI
+1 NAME Josiah /SABIN/
+2 SURN SABIN
+2 GIVN Josiah
+1 SEX M
+1 BIRT
+2 DATE Mar 1792
+2 PLAC , , NY
+1 DEAT
+2 DATE 20 Feb 1812/1838
+1 AFN KLR0-R5
+1 BAPL
+2 DATE 23 Sep 1874
+1 ENDL
+2 DATE 18 Mar 1885
+1 _UID AE0AADF37BEED61181E79F8A4A34F60DBAB8
+1 SLGC
+2 DATE 30 Nov 1931
+2 TEMP SLAKE
+1 CHAN
+2 DATE 24 Oct 1997
+3 TIME 00:00:00
+0 @I275@ INDI
+1 NAME Sarah //
+2 GIVN Sarah
+1 SEX F
+1 AFN FVQZ-Q9
+1 _UID 2A13ADF37BEED61181E79F8A4A34F60D3FFF
+1 FAMS @F17@
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:59:18
+0 @I299@ INDI
+1 NAME Eleanor /SABIN/
+2 SURN SABIN
+2 GIVN Eleanor
+1 SEX F
+1 BIRT
+2 DATE 23 Sep 1802
+2 PLAC Cazenovia, Madison, NY
+1 AFN 35J2-RB
+1 BAPL
+2 DATE 9 Jun 1924
+1 ENDL
+2 DATE 5 May 1925
+1 _UID F609ADF37BEED61181E79F8A4A34F60D0129
+1 FAMC @F10@
+1 SLGC
+2 FAMC @F10@
+2 DATE 28 Jun 1939
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 19:27:04
+0 @I301@ INDI
+1 NAME Eliza Jane /BATES/
+2 SURN BATES
+2 GIVN Eliza Jane
+1 SEX F
+1 BIRT
+2 DATE 20 Nov 1851
+2 PLAC Salt Lake City, Salt Lake, UT
+1 DEAT
+2 DATE 22 Oct 1872
+2 PLAC Payson, Utah, UT
+2 CAUS Complications at birth of 1st child, before delivery
+1 BURI
+2 PLAC Payson, Utah, UT
+1 AFN 4WP1-1G
+1 BAPL
+2 DATE 13 May 1967
+2 TEMP ARIZO
+1 ENDL
+2 DATE 16 Jun 1967
+2 TEMP ARIZO
+1 _UID 9C12ADF37BEED61181E79F8A4A34F60DB010
+1 FAMS @F5@
+1 NOTE Birth and death:#265, Index record of buriel cards, Payson City Cemetery, Payson, Utah, UT.
+2 CONT 
+2 CONT Baptism and Endowment:#31739 AZ (GS #471,963).
+2 CONT 
+2 CONT Sealed to husband: GS #537,296.
+2 CONT 
+2 CONT From a letter dated 7 Aug 1964 written by niece of Eliza Jane BATES-Harriet Bates Francom: "E
+2 CONC liza Jane Bates, daughter of Joseph William BATES in Salt Lake City, Utah. She came with th
+2 CONC e family to Payson in the spring of 1858. She married Parley Pratt SABIN 6 Jan 1872 in Payson
+2 CONC , Utah and died 22 Oct 1872 at the home of her parents in Payson of childbirth. The child wa
+2 CONC s never born. She died in the agony of childbirth as the midwife could not help her. She is b
+2 CONC urried in the Payson City cemetery on her father's lot."
+2 CONT 
+2 CONT MARRIAGE: Marriage also listed as 6 Jan 1872.
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 20:23:29
+0 @I305@ INDI
+1 NAME Sarah Ann /SABIN/
+2 SURN SABIN
+2 GIVN Sarah Ann
+2 NICK Sally
+1 SEX F
+1 BIRT
+2 DATE 25 May 1793
+2 PLAC Otego, Oswego, NY
+1 DEAT
+2 DATE Aug 1864
+2 PLAC Logan, Cache, UT
+1 BURI
+2 DATE 1864
+2 PLAC Logan, Cache, UT
+1 AFN 178B-1V
+1 BAPL
+2 DATE 28 Apr 1844
+1 ENDL
+2 DATE 3 Apr 1857
+2 TEMP EHOUS
+1 _UID B00AADF37BEED61181E79F8A4A34F60DBCD8
+1 SLGC
+2 DATE 30 Nov 1931
+2 TEMP SLAKE
+1 CHAN
+2 DATE 2 Nov 2002
+3 TIME 22:14:36
+0 @F2@ FAM
+1 _UID 09E833B65EA6D61181E7C6A9006E672A9B3B
+1 HUSB @I3@
+1 WIFE @I4@
+1 MARR
+2 DATE 21 Dec 1924
+2 PLAC Mesa,Maricopa,Arizona,United States
+1 SLGS
+2 DATE 11 Feb 1928
+2 TEMP MESA
+0 @F3@ FAM
+1 _UID 17E833B65EA6D61181E7C6A9006E672AA91B
+1 HUSB @I3@
+1 WIFE @I11@
+1 MARR
+2 DATE 6 Sep 1955
+2 PLAC ,Washoe,Nevada,United States
+0 @F4@ FAM
+1 _UID 18E833B65EA6D61181E7C6A9006E672AAA2B
+1 HUSB @I5@
+1 WIFE @I8@
+1 CHIL @I1@
+1 CHIL @I32@
+1 CHIL @I9@
+1 CHIL @I33@
+1 CHIL @I3@
+1 CHIL @I34@
+1 CHIL @I35@
+1 MARR
+2 DATE 19 Oct 1887
+2 PLAC St George,Washington,Utah,United States
+1 SLGS
+2 DATE 19 Oct 1887
+2 TEMP SG
+0 @F5@ FAM
+1 _UID 35E833B65EA6D61181E7C6A9006E672AC7FB
+1 HUSB @I5@
+1 WIFE @I301@
+1 MARR
+2 DATE 11 Dec 1871
+2 PLAC Payson,Utah,Utah,United States
+1 SLGS
+2 DATE 16 Feb 1968
+2 TEMP AZ
+0 @F6@ FAM
+1 _UID 36E833B65EA6D61181E7C6A9006E672AC80B
+1 HUSB @I5@
+1 WIFE @I29@
+1 CHIL @I172@
+1 CHIL @I67@
+1 CHIL @I64@
+1 CHIL @I173@
+1 CHIL @I69@
+1 MARR
+2 DATE 12 Jan 1874
+2 PLAC Salt Lake,Salt Lake,Utah,United States
+1 SLGS
+2 DATE 12 Jan 1874
+2 TEMP EH
+0 @F7@ FAM
+1 _UID 37E833B65EA6D61181E7C6A9006E672AC91B
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I42@
+1 CHIL @I43@
+1 CHIL @I46@
+1 CHIL @I47@
+1 CHIL @I48@
+1 CHIL @I30@
+1 CHIL @I50@
+1 CHIL @I5@
+1 CHIL @I51@
+1 CHIL @I52@
+1 CHIL @I53@
+1 MARR
+2 DATE 19 Feb 1832
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+1 SLGS
+2 DATE 28 Jul 1852
+2 TEMP EH
+0 @F8@ FAM
+1 _UID 39E833B65EA6D61181E7C6A9006E672ACB3B
+1 HUSB @I6@
+1 WIFE @I44@
+1 MARR
+2 DATE 7 Aug 1879
+2 PLAC Salt Lake,Salt Lake,UT,United States
+1 SLGS
+2 DATE 7 Aug 1879
+2 TEMP SL
+0 @F9@ FAM
+1 _UID 3AE833B65EA6D61181E7C6A9006E672ACC4B
+1 HUSB @I6@
+1 WIFE @I45@
+1 MARR
+2 DATE 29 Aug 1884
+1 SLGS
+2 DATE 29 Aug 1884
+0 @F10@ FAM
+1 _UID 3BE833B65EA6D61181E7C6A9006E672ACD5B
+1 HUSB @I14@
+1 WIFE @I15@
+1 CHIL @I79@
+1 CHIL @I80@
+1 CHIL @I299@
+1 CHIL @I82@
+1 CHIL @I6@
+1 CHIL @I24@
+1 CHIL @I84@
+1 MARR
+2 DATE 24 Dec 1795
+2 PLAC Otego,Otsego,New York,United States
+0 @F11@ FAM
+1 _UID 59E833B65EA6D61181E7C6A9006E672AEB3B
+1 HUSB @I16@
+1 WIFE @I17@
+1 CHIL @I241@
+1 CHIL @I242@
+1 CHIL @I243@
+1 CHIL @I7@
+1 CHIL @I244@
+1 CHIL @I245@
+1 CHIL @I246@
+1 CHIL @I247@
+1 CHIL @I248@
+1 CHIL @I45@
+1 CHIL @I249@
+1 CHIL @I250@
+1 CHIL @I251@
+0 @F14@ FAM
+1 _UID 4D09ADF37BEED61181E79F8A4A34F60D5899
+1 WIFE @I29@
+1 CHIL @I172@
+1 CHIL @I67@
+1 CHIL @I64@
+1 CHIL @I173@
+1 CHIL @I69@
+1 MARR
+2 DATE 12 Jan 1874
+2 PLAC Salt Lake City, Salt Lake, UT
+1 SLGS
+2 DATE 12 Jan 1874
+2 TEMP EHOUS
+0 @F15@ FAM
+1 _UID 9CE833B65EA6D61181E7C6A9006E672A2E6B
+1 CHIL @I2@
+0 @F16@ FAM
+1 _UID 9DE833B65EA6D61181E7C6A9006E672A2F7B
+1 HUSB @I18@
+1 WIFE @I19@
+1 CHIL @I54@
+1 CHIL @I55@
+1 CHIL @I8@
+1 CHIL @I56@
+1 CHIL @I57@
+1 CHIL @I58@
+1 CHIL @I59@
+1 CHIL @I60@
+1 CHIL @I61@
+1 CHIL @I62@
+1 CHIL @I63@
+1 MARR
+2 DATE 15 Jan 1863
+2 PLAC Salt Lake,Salt Lake,Utah,United States
+1 SLGS
+2 DATE 12 Oct 1867
+2 TEMP EH
+0 @F17@ FAM
+1 _UID A2E833B65EA6D61181E7C6A9006E672A34CB
+1 HUSB @I14@
+1 WIFE @I275@
+1 MARR
+2 DATE BEF 1794
+0 @F18@ FAM
+1 _UID A3E833B65EA6D61181E7C6A9006E672A35DB
+1 HUSB @I14@
+1 WIFE @I65@
+1 MARR
+2 DATE BEF 1795
+0 @F19@ FAM
+1 _UID A4E833B65EA6D61181E7C6A9006E672A36EB
+1 HUSB @I36@
+1 WIFE @I162@
+1 CHIL @I14@
+1 CHIL @I85@
+1 CHIL @I86@
+1 MARR
+2 DATE ABT 1772
+0 @F20@ FAM
+1 _UID A6E833B65EA6D61181E7C6A9006E672A380B
+1 HUSB @I175@
+1 WIFE @I26@
+1 CHIL @I15@
+1 CHIL @I177@
+1 CHIL @I179@
+1 CHIL @I180@
+1 CHIL @I181@
+0 @F21@ FAM
+1 _UID A8E833B65EA6D61181E7C6A9006E672A3A2B
+1 CHIL @I16@
+1 MARR
+2 DATE 30 Apr 1768
+2 PLAC Lancaster,Lancaster,Pennsylvania,United States
+0 @F22@ FAM
+1 _UID ABE833B65EA6D61181E7C6A9006E672A3D5B
+1 CHIL @I18@
+0 @F23@ FAM
+1 _UID ADE833B65EA6D61181E7C6A9006E672A3F7B
+1 CHIL @I19@
+0 @F25@ FAM
+1 _UID 44E933B65EA6D61181E7C6A9006E672AD7FA
+1 HUSB @I36@
+1 WIFE @I37@
+1 CHIL @I163@
+1 CHIL @I164@
+1 CHIL @I27@
+1 CHIL @I88@
+1 CHIL @I166@
+1 CHIL @I68@
+1 CHIL @I167@
+1 CHIL @I168@
+1 CHIL @I169@
+1 CHIL @I170@
+1 CHIL @I87@
+1 CHIL @I171@
+1 MARR
+2 DATE 22 Jul 1779
+2 PLAC Pittsfield,Berkshire,Massachusetts,United States
+1 SLGS
+2 DATE 23 Sep 1874
+2 TEMP SL
+0 @F26@ FAM
+1 _UID 45E933B65EA6D61181E7C6A9006E672AD80A
+1 HUSB @I38@
+1 WIFE @I100@
+1 CHIL @I36@
+1 CHIL @I121@
+1 CHIL @I122@
+1 CHIL @I123@
+1 CHIL @I124@
+1 CHIL @I125@
+1 MARR
+2 DATE 28 Dec 1748
+2 PLAC Preston,New London,Connecticut
+0 @F27@ FAM
+1 _UID 49E933B65EA6D61181E7C6A9006E672ADC4A
+1 HUSB @I39@
+1 WIFE @I73@
+1 CHIL @I126@
+1 CHIL @I127@
+1 CHIL @I38@
+1 CHIL @I128@
+1 CHIL @I74@
+1 CHIL @I129@
+1 CHIL @I130@
+1 CHIL @I131@
+1 MARR
+2 DATE 18 Nov 1724
+2 PLAC Rehoboth,Bristol,Massachusetts
+0 @F28@ FAM
+1 _UID 4BE933B65EA6D61181E7C6A9006E672ADE6A
+1 HUSB @I40@
+1 WIFE @I71@
+1 CHIL @I155@
+1 CHIL @I156@
+1 CHIL @I157@
+1 CHIL @I72@
+1 CHIL @I158@
+1 CHIL @I39@
+1 CHIL @I76@
+1 CHIL @I159@
+1 CHIL @I160@
+1 CHIL @I78@
+1 CHIL @I161@
+1 CHIL @I77@
+1 MARR
+2 DATE 20 May 1696
+2 PLAC Rehoboth,Bristol,Massachusetts
+1 SLGS
+2 DATE 6 Dec 1972
+2 TEMP MT
+0 @F29@ FAM
+1 _UID 4DE933B65EA6D61181E7C6A9006E672AE08A
+1 HUSB @I40@
+1 WIFE @I174@
+1 MARR
+2 DATE 29 Jan 1715/1716
+2 PLAC Swansea,Bristol,Massachusetts
+0 @F30@ FAM
+1 _UID 4EE933B65EA6D61181E7C6A9006E672AE19A
+1 HUSB @I41@
+1 WIFE @I70@
+1 CHIL @I151@
+1 CHIL @I75@
+1 CHIL @I152@
+1 CHIL @I40@
+1 CHIL @I153@
+1 CHIL @I154@
+1 MARR
+2 DATE 20 Jan 1663/1664
+2 PLAC Rehoboth,Bristol,Plymouth
+0 @F31@ FAM
+1 _UID 50E933B65EA6D61181E7C6A9006E672AE3BA
+1 HUSB @I89@
+1 WIFE @I99@
+1 CHIL @I41@
+1 CHIL @I110@
+1 CHIL @I111@
+1 CHIL @I112@
+1 CHIL @I113@
+1 CHIL @I114@
+1 CHIL @I115@
+1 CHIL @I116@
+1 CHIL @I117@
+1 CHIL @I118@
+1 CHIL @I119@
+1 CHIL @I120@
+1 MARR
+2 DATE ABT 1640
+0 @F32@ FAM
+1 _UID 58E933B65EA6D61181E7C6A9006E672AEB3A
+1 HUSB @I47@
+0 @F33@ FAM
+1 _UID 32EA33B65EA6D61181E7C6A9006E672AC6E9
+1 HUSB @I90@
+1 WIFE @I91@
+1 CHIL @I92@
+1 CHIL @I93@
+1 CHIL @I94@
+1 CHIL @I70@
+1 CHIL @I95@
+1 CHIL @I96@
+1 CHIL @I97@
+1 CHIL @I98@
+1 MARR
+2 DATE 7 Jul 1634
+2 PLAC Plymouth,Plymouth
+0 @F34@ FAM
+1 _UID 34EA33B65EA6D61181E7C6A9006E672AC809
+1 HUSB @I133@
+1 CHIL @I135@
+1 CHIL @I136@
+1 CHIL @I71@
+1 MARR
+2 DATE 2 Dec 1670
+0 @F35@ FAM
+1 _UID 4AEA33B65EA6D61181E7C6A9006E672ADE69
+1 HUSB @I89@
+1 WIFE @I101@
+1 CHIL @I102@
+1 CHIL @I103@
+1 CHIL @I104@
+1 CHIL @I105@
+1 CHIL @I106@
+1 CHIL @I107@
+1 CHIL @I108@
+1 CHIL @I109@
+1 MARR
+2 DATE 22 Dec 1663
+2 PLAC Medfield,Norfolk
+0 @F36@ FAM
+1 _UID 4FEA33B65EA6D61181E7C6A9006E672AE3B9
+1 HUSB @I132@
+1 WIFE @I91@
+0 @F37@ FAM
+1 _UID 60EA33B65EA6D61181E7C6A9006E672AF4C9
+1 HUSB @I239@
+1 WIFE @I240@
+1 CHIL @I100@
+0 @F38@ FAM
+1 _UID A2EA33B65EA6D61181E7C6A9006E672A36E9
+1 CHIL @I133@
+0 @F42@ FAM
+1 _UID D3EA33B65EA6D61181E7C6A9006E672A67F9
+1 HUSB @I168@
+1 MARR
+2 DATE 17 Oct 1816
+0 @F43@ FAM
+1 _UID 01EB33B65EA6D61181E7C6A9006E672A96E8
+1 CHIL @I175@
+0 @F45@ FAM
+1 _UID 1AE833B65EA6D61181E7C6A9006E672AAC4B
+1 HUSB @I225@
+1 WIFE @I226@
+1 CHIL @I4@
+1 CHIL @I224@
+1 CHIL @I204@
+1 CHIL @I203@
+1 CHIL @I234@
+1 CHIL @I232@
+1 CHIL @I235@
+1 CHIL @I236@
+1 CHIL @I231@
+1 CHIL @I227@
+1 CHIL @I238@
+1 CHIL @I223@
+1 MARR
+2 DATE 5 Oct 1898
+2 PLAC Salt Lake,Salt Lake,Utah,United States
+0 @F50@ FAM
+1 _UID 4D09ADF37BEED61181E79F8A4A34F60D5899
+1 WIFE @I29@
+1 CHIL @I172@
+1 CHIL @I67@
+1 CHIL @I64@
+1 CHIL @I173@
+1 CHIL @I69@
+1 MARR
+2 DATE 12 Jan 1874
+2 PLAC Salt Lake City, Salt Lake, UT
+1 SLGS
+2 DATE 12 Jan 1874
+2 TEMP EHOUS
+0 @F56@ FAM
+1 _UID 4F09ADF37BEED61181E79F8A4A34F60D5AB9
+1 WIFE @I29@
+1 MARR
+2 DATE 12 Jan 1874
+2 PLAC Salt Lake City, Salt Lake, UT
+1 SLGS
+2 DATE 12 Jan 1874
+2 TEMP EHOUS
+0 @F58@ FAM
+1 _UID 4D09ADF37BEED61181E79F8A4A34F60D5899
+1 WIFE @I29@
+1 CHIL @I172@
+1 CHIL @I67@
+1 CHIL @I64@
+1 CHIL @I173@
+1 CHIL @I69@
+1 MARR
+2 DATE 12 Jan 1874
+2 PLAC Salt Lake City, Salt Lake, UT
+1 SLGS
+2 DATE 12 Jan 1874
+2 TEMP EHOUS
+0 @F60@ FAM
+1 _UID 9709ADF37BEED61181E79F8A4A34F60DA239
+1 CHIL @I42@
+1 CHIL @I43@
+1 CHIL @I46@
+1 CHIL @I48@
+1 CHIL @I30@
+1 CHIL @I50@
+1 CHIL @I51@
+1 CHIL @I52@
+1 CHIL @I53@
+1 MARR
+2 DATE 19 Feb 1832
+2 PLAC Lancaster, Lancaster, PA
+1 SLGS
+2 DATE 28 Jul 1852
+2 TEMP EHOUS
+0 @F65@ FAM
+1 _UID 4F09ADF37BEED61181E79F8A4A34F60D5AB9
+1 WIFE @I29@
+1 MARR
+2 DATE 12 Jan 1874
+2 PLAC Salt Lake City, Salt Lake, UT
+1 SLGS
+2 DATE 12 Jan 1874
+2 TEMP EHOUS
+0 @F67@ FAM
+1 _UID 550BC9D1A0EED61181E79F8A4A34F60D81C1
+1 HUSB @I254@
+1 WIFE @I44@
+0 @F72@ FAM
+1 _UID AF0FADF37BEED61181E79F8A4A34F60DC013
+1 CHIL @I37@
+0 @F74@ FAM
+1 _UID 4F09ADF37BEED61181E79F8A4A34F60D5AB9
+1 WIFE @I29@
+1 MARR
+2 DATE 12 Jan 1874
+2 PLAC Salt Lake City, Salt Lake, UT
+1 SLGS
+2 DATE 12 Jan 1874
+2 TEMP EHOUS
+0 TRLR

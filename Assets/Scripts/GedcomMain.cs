@@ -27,7 +27,8 @@ public class GedcomMain
             GedcomIndividualRecord childRecord = gedcomReader.Database.Individuals.Find(f => f.XRefID == childID);
             if (childRecord != null)
             {
-                childrenRecords.Add(new FamilyPerson(childRecord));
+                //this will recurse
+                childrenRecords.Add(loadIndividual(childRecord));
             }
         }
         //Find Husband
@@ -39,7 +40,8 @@ public class GedcomMain
         {
             //lookup husband
             GedcomIndividualRecord spouse = gedcomReader.Database.Individuals.Find(ir => fr.Husband == ir.XRefID);
-            husband = new FamilyPerson(spouse);
+            //recurse
+            husband = loadIndividual(spouse);
         }
         //Find Wife
         FamilyPerson wife = null;
@@ -51,7 +53,8 @@ public class GedcomMain
         {
             //lookup husband
             GedcomIndividualRecord spouse = gedcomReader.Database.Individuals.Find(ir => fr.Wife == ir.XRefID);
-            wife = new FamilyPerson(spouse);
+            //recurse
+            wife = loadIndividual(spouse);
         }
 
         rootPerson.addMarraige(fr, husband, wife, childrenRecords);

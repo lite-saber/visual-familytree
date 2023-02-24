@@ -28,7 +28,7 @@ public class GedcomMain
             if (childRecord != null)
             {
                 //this will recurse
-                UnityEngine.Debug.Log($"  {following the child");
+                UnityEngine.Debug.Log($"  {rootPerson.Name} follow child {getGedcomName(childRecord)}");
                 childrenRecords.Add(loadIndividual(childRecord));
             }
         }
@@ -44,6 +44,7 @@ public class GedcomMain
             if (spouse != null)
             {
                 //recurse
+                UnityEngine.Debug.Log($" {rootPerson.Name} has husband {getGedcomName(spouse)}");
                 husband = loadIndividual(spouse, fr.XrefId);//do not traverse to this marriage again - this will cause a loop
             }
         }

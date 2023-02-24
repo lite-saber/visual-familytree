@@ -28,6 +28,7 @@ public class GedcomMain
             if (childRecord != null)
             {
                 //this will recurse
+                UnityEngine.Debug.Log($"  {following the child");
                 childrenRecords.Add(loadIndividual(childRecord));
             }
         }
@@ -40,8 +41,11 @@ public class GedcomMain
         {
             //lookup husband
             GedcomIndividualRecord spouse = gedcomReader.Database.Individuals.Find(ir => fr.Husband == ir.XRefID);
-            //recurse
-            husband = loadIndividual(spouse);
+            if (spouse != null)
+            {
+                //recurse
+                husband = loadIndividual(spouse, fr.XrefId);//do not traverse to this marriage again - this will cause a loop
+            }
         }
         //Find Wife
         FamilyPerson wife = null;
@@ -53,20 +57,45 @@ public class GedcomMain
         {
             //lookup husband
             GedcomIndividualRecord spouse = gedcomReader.Database.Individuals.Find(ir => fr.Wife == ir.XRefID);
-            //recurse
-            wife = loadIndividual(spouse);
+            if (spouse != null)
+            {
+                //recurse
+                wife = loadIndividual(spouse, fr.XrefId);//do not traverse to this marriage again - this will cause a loop
+            }
         }
 
         rootPerson.addMarraige(fr, husband, wife, childrenRecords);
     }
 
-    private FamilyPerson loadIndividual(GedcomIndividualRecord ir)
+    private string getGedcomName(GedcomIndividualRecord ir)
+    {
+
+        //Get only the preferred name
+        GedcomName ir_name = ir.GetName();
+        string Name = "UNKNOWN";
+        if (ir_name != null)
+        {
+            //Get fully concatonated name
+            Name = ir_name.Name;
+        }
+        return Name;
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="ir"></param> Individual record
+    /// <param name="ignore_marriage"></param> if NULL then process all marriage; if set to a GedcomFamilyRecord.XRefID, then do not traverse to that marrriage again
+    /// <returns></returns>
+    /// <exception cref="System.Exception"></exception>
+    private FamilyPerson loadIndividual(GedcomIndividualRecord ir, string ignore_marriage = null)
     {
         FamilyPerson fp;
         //Check if individual exists - this is a loop, and should never happen
         if(alreadySeen.ContainsKey(ir.XRefID))
         {
-            throw new System.Exception($"Saw the {ir.XRefID} for the second time in unravel, so this is a loop");
+
+            throw new System.Exception($"Saw the {ir.XRefID}, '{Name}', for the second time in unravel, so this is a loop");
         }
         alreadySeen.Add(ir.XRefID, true);
         if (allData.ContainsKey(ir.XRefID))
@@ -76,18 +105,29 @@ public class GedcomMain
         else
         {
             fp = new FamilyPerson(ir);
+            UnityEngine.Debug.Log($"Processed {fp.Name}");
             allData.Add(fp.XRefID, fp);
 
             //Find if person is a husband
             List<GedcomFamilyRecord> find_marriage = gedcomReader.Database.Families.FindAll(f => f.Husband == ir.XRefID);
             foreach (GedcomFamilyRecord marriage_one in find_marriage)
             {
-                loadMarriage(fp, marriage_one, marriage_person.HUSBAND);
+                //Skip the ignore marriage to not create a cycle
+                if (marriage_one.XRefID != ignore_marriage)
+                {
+                    UnityEngine.Debug.Log($"  Follow husband marriage");
+                    loadMarriage(fp, marriage_one, marriage_person.HUSBAND);
+                }
             }
             find_marriage = gedcomReader.Database.Families.FindAll(f => f.Wife == ir.XRefID);
             foreach (GedcomFamilyRecord marriage_one in find_marriage)
             {
-                loadMarriage(fp, marriage_one, marriage_person.WIFE);
+                //Skip the ignore marriage to not create a cycle
+                if (marriage_one.XRefID != ignore_marriage)
+                {
+                    UnityEngine.Debug.Log($"  Follow wife marriage");
+                    loadMarriage(fp, marriage_one, marriage_person.WIFE);
+                }
             }
         }
         return fp;
@@ -109,6 +149,8 @@ public class GedcomMain
         foreach (GedcomIndividualRecord ir in gedcomReader.Database.Individuals)
         {
             alreadySeen.Clear();//remove already seen to confirm no loops
+            UnityEngine.Debug.Log($"Clear - next entry");
+
             loadIndividual(ir);      
         }
         return "";

@@ -9,16 +9,26 @@ class FamilyPerson
 {
     public string XRefID { get; }
     public string Name { get; }
-    public FamilyDate Birth { get; }
+    public GedcomDate Birth { get; }
     public FamilyAddress Birth_Location { get; }
     public FamilyAddress Death_Location { get; }
-    public FamilyDate Death { get; }
+    public GedcomDate Death { get; }
     public enum ENUM_GENDER { MALE, FEMALE, UNKNOWN }
     public ENUM_GENDER gender { get;  }
 
     public List<MarriageData> marriages { get; }
     public FamilyPerson(GedcomIndividualRecord ir)
     {
+        //Name
+        //Get only the preferred name
+        GedcomName ir_name = ir.GetName();
+        Name = null;
+        if(ir_name != null)
+        {
+            //Get fully concatonated name
+            Name = ir_name.Name;
+        }
+
         //Get Reference ID
         XRefID = ir.XRefID;
 
@@ -39,24 +49,55 @@ class FamilyPerson
         }
 
         //Get Birth
-        Birth = new FamilyDate(ir.Birth.Date.DateTime1, ir.Birth.Date.DateTime2);
-        GedcomAddress b_addr = ir.Birth.Address;
-        Birth_Location = new FamilyAddress(b_addr.AddressLine1, b_addr.AddressLine2, b_addr.AddressLine3, b_addr.City, b_addr.Country, b_addr.State, b_addr.PostCode);
+        GedcomIndividualEvent ir_birth = ir.Birth;
+        Birth = null;
+        Birth_Location = null;
+        if (ir_birth != null)
+        {
+            if (ir_birth.Date != null)
+            {
+                Birth = ir_birth.Date;
+            }
+            GedcomAddress b_addr = ir_birth.Address;
+            if (b_addr != null)
+            {
+                Birth_Location = new FamilyAddress(b_addr.AddressLine1, b_addr.AddressLine2, b_addr.AddressLine3, b_addr.City, b_addr.Country, b_addr.State, b_addr.PostCode);
+            }
+        }
 
         //get Death
-        b_addr = ir.Death.Address;
-        Death_Location = new FamilyAddress(b_addr.AddressLine1, b_addr.AddressLine2, b_addr.AddressLine3, b_addr.City, b_addr.Country, b_addr.State, b_addr.PostCode);
-        Death = new FamilyDate(ir.Death.Date.DateTime1, ir.Death.Date.DateTime2);
-
+        GedcomIndividualEvent ir_death = ir.Death;
+        Death_Location = null;
+        Death = null;
+        if (ir_death != null)
+        {
+            GedcomAddress b_addr = ir_death.Address;
+            if (b_addr != null)
+            {
+                Death_Location = new FamilyAddress(b_addr.AddressLine1, b_addr.AddressLine2, b_addr.AddressLine3, b_addr.City, b_addr.Country, b_addr.State, b_addr.PostCode);
+            }
+            if (ir_death.Date != null)
+            {
+                Death = ir_death.Date;
+            }
+        }
         marriages = new List<MarriageData>();
     }
     public void addMarraige(GedcomFamilyRecord fr, FamilyPerson husband_in, FamilyPerson wife_in, List<FamilyPerson> children)
     {
         GedcomFamilyEvent marriage_info = fr.Marriage;
-        GedcomPlace marraige_place = marriage_info.Place;
-        string marriage_location = marraige_place.Name;
-        GedcomDate marriage_date = marriage_info.Date;
-        MarriageData md = new MarriageData(marriage_location, marriage_date.DateTime1,marriage_date.DateTime2);
+        string marriage_location = "";
+        GedcomDate marriage_date = null;
+        if (marriage_info != null)
+        {
+            GedcomPlace marraige_place = marriage_info.Place;
+            if (marraige_place != null)
+            {
+                marriage_location = marraige_place.Name;
+                marriage_date = marriage_info.Date;
+            }
+        }
+        MarriageData md = new MarriageData(marriage_location, marriage_date);
         md.setChildren(children);
         md.addWife(wife_in);
         md.addHusband(husband_in);

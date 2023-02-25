@@ -20,32 +20,23 @@ public class GedcomMain
     }
     private void loadMarriage(FamilyPerson rootPerson, GedcomFamilyRecord fr, marriage_person mtype)
     {
-        //Add children
-        List<FamilyPerson> childrenRecords = new List<FamilyPerson>();
-        foreach (string childID in fr.Children)
-        {
-            GedcomIndividualRecord childRecord = gedcomReader.Database.Individuals.Find(f => f.XRefID == childID);
-            if (childRecord != null)
-            {
-                //this will recurse
-                UnityEngine.Debug.Log($"  {rootPerson.Name} follow child {getGedcomName(childRecord)}");
-                childrenRecords.Add(loadIndividual(childRecord));
-            }
-        }
         //Find Husband
         FamilyPerson husband = null;
-        if(mtype == marriage_person.HUSBAND)
+        string spouse_name = "UNKNOWN";
+        if (mtype == marriage_person.HUSBAND)
         {
             husband = rootPerson;
-        } else
+        }
+        else
         {
             //lookup husband
             GedcomIndividualRecord spouse = gedcomReader.Database.Individuals.Find(ir => fr.Husband == ir.XRefID);
             if (spouse != null)
             {
                 //recurse
-                UnityEngine.Debug.Log($" {rootPerson.Name} has husband {getGedcomName(spouse)}");
-                husband = loadIndividual(spouse, fr.XrefId);//do not traverse to this marriage again - this will cause a loop
+                spouse_name = getGedcomName(spouse);
+                UnityEngine.Debug.Log($" {rootPerson.Name} has husband {spouse_name}");
+                husband = loadIndividual(spouse, fr.XRefID);//do not traverse to this marriage again - this will cause a loop
             }
         }
         //Find Wife
@@ -61,11 +52,26 @@ public class GedcomMain
             if (spouse != null)
             {
                 //recurse
-                wife = loadIndividual(spouse, fr.XrefId);//do not traverse to this marriage again - this will cause a loop
+                spouse_name = getGedcomName(spouse);
+                UnityEngine.Debug.Log($" {rootPerson.Name} has wife {spouse_name}");
+                wife = loadIndividual(spouse, fr.XRefID);//do not traverse to this marriage again - this will cause a loop
+            }
+        }
+        //Add children
+        List<FamilyPerson> childrenRecords = new List<FamilyPerson>();
+        foreach (string childID in fr.Children)
+        {
+            GedcomIndividualRecord childRecord = gedcomReader.Database.Individuals.Find(f => f.XRefID == childID);
+            if (childRecord != null)
+            {
+                //this will recurse
+                UnityEngine.Debug.Log($"  {rootPerson.Name} married to {spouse_name}, follow child {getGedcomName(childRecord)}");
+                childrenRecords.Add(loadIndividual(childRecord));
             }
         }
 
         rootPerson.addMarraige(fr, husband, wife, childrenRecords);
+        UnityEngine.Debug.Log($" {rootPerson.Name} finished marriage to {spouse_name}");
     }
 
     private string getGedcomName(GedcomIndividualRecord ir)
@@ -96,12 +102,14 @@ public class GedcomMain
         if(alreadySeen.ContainsKey(ir.XRefID))
         {
 
-            throw new System.Exception($"Saw the {ir.XRefID}, '{Name}', for the second time in unravel, so this is a loop");
+            //Do not need this anymore since the duplicate marriage is already protected against.
+            //throw new System.Exception($"Saw the {ir.XRefID}, '{getGedcomName(ir)}', for the second time in unravel, so this is a loop");
         }
-        alreadySeen.Add(ir.XRefID, true);
+        //alreadySeen.Add(ir.XRefID, true);
         if (allData.ContainsKey(ir.XRefID))
         {
             fp = allData[ir.XRefID];
+            UnityEngine.Debug.Log($"ReProcessed {fp.Name}");
         }
         else
         {
@@ -116,8 +124,11 @@ public class GedcomMain
                 //Skip the ignore marriage to not create a cycle
                 if (marriage_one.XRefID != ignore_marriage)
                 {
-                    UnityEngine.Debug.Log($"  Follow husband marriage");
+                    UnityEngine.Debug.Log($"  {fp.Name} follow as husband in marriage");
                     loadMarriage(fp, marriage_one, marriage_person.HUSBAND);
+                } else
+                {
+                    UnityEngine.Debug.Log($" {fp.Name} skipped marriage as husband");
                 }
             }
             find_marriage = gedcomReader.Database.Families.FindAll(f => f.Wife == ir.XRefID);
@@ -126,11 +137,16 @@ public class GedcomMain
                 //Skip the ignore marriage to not create a cycle
                 if (marriage_one.XRefID != ignore_marriage)
                 {
-                    UnityEngine.Debug.Log($"  Follow wife marriage");
+                    UnityEngine.Debug.Log($"  {fp.Name} follow as wife in marriage");
                     loadMarriage(fp, marriage_one, marriage_person.WIFE);
+                }
+                else
+                {
+                    UnityEngine.Debug.Log($" {fp.Name} skipped marriage as wife");
                 }
             }
         }
+        UnityEngine.Debug.Log($" {fp.Name} finished Individual");
         return fp;
 
     }

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-class PersonName
+public class PersonName
 {
     // name pieces
     public string prefix;

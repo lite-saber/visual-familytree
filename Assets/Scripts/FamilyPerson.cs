@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-class FamilyPerson
+public class FamilyPerson
 {
     public string XRefID { get; }
     public string Name { get; }

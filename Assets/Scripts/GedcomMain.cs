@@ -9,6 +9,7 @@ using UnityEngine;
 public class GedcomMain
 {
     private GedcomRecordReader gedcomReader = null;
+    private string rootPerson;
     private Dictionary<string, FamilyPerson> allData;
     private Dictionary<string, bool> alreadySeen;
     enum marriage_person { HUSBAND, WIFE }
@@ -17,7 +18,22 @@ public class GedcomMain
     {
         allData = new Dictionary<string, FamilyPerson>();
         alreadySeen = new Dictionary<string, bool>();
+        rootPerson = null;
     }
+
+    /// <summary>
+    /// Return the Root person to get
+    /// </summary>
+    /// <returns>FamilyPerson who is the root;  or returns NULL if nothing loaded</returns>
+    public FamilyPerson getRoot()
+    {
+        if (rootPerson == null)
+        {
+            return null;
+        }
+        return allData[rootPerson];
+    }
+
     private void loadMarriage(FamilyPerson rootPerson, GedcomFamilyRecord fr, marriage_person mtype)
     {
         //Find Husband
@@ -165,6 +181,11 @@ public class GedcomMain
         //Convert everything to my format
         foreach (GedcomIndividualRecord ir in gedcomReader.Database.Individuals)
         {
+            //Set Root peron on the first person
+            if (null == rootPerson)
+            {
+                rootPerson = ir.XRefID;
+            }
             alreadySeen.Clear();//remove already seen to confirm no loops
             UnityEngine.Debug.Log($"Clear - next entry");
 

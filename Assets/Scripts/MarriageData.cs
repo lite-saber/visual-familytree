@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-class MarriageData
+public class MarriageData
 {
     public string Location { get; }
     public GedcomDate eventDate;

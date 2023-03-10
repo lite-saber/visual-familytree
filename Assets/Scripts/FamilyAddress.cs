@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-class FamilyAddress
+public class FamilyAddress
 {
     public string Line1;
     public string Line2;

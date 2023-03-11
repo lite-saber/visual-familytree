@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Assertions;
 using UnityEngine.UI;
 
 public class scr : MonoBehaviour
@@ -12,8 +13,10 @@ public class scr : MonoBehaviour
     public GameObject startPos;
     private int loc;
     public float spacingY;
+    private Vector3 coreLocation;
     void Start()
     {
+        createCoreLocation();
         loc = 0;
         GedcomMain gm = new GedcomMain();
         gm.getgedcom();
@@ -23,17 +26,7 @@ public class scr : MonoBehaviour
 
         //Create the first individual
         FamilyPerson fp = gm.getRoot();
-        string birth_str = "UNKNOWN";
-        if(fp.Birth != null)
-        {
-            birth_str = fp.Birth.DateString;
-        }
-        string death_str = "UNKNOWN";
-        if(fp.Death != null)
-        {
-            death_str = fp.Death.DateString;
-        }
-        createIndividual(fp.Name, birth_str + " - " + death_str);
+        createFamily(fp);
     }
 
     // Update is called once per frame
@@ -44,48 +37,46 @@ public class scr : MonoBehaviour
 
     // Summary: Determine the next location to place the individual
     // Return: Vector3 of the X,Y,Z position to place the individual
-    Vector3 determineLocation()
+    private void createCoreLocation()
     {
         float newX = startPos.transform.localPosition.x;
-        float newY = startPos.transform.localPosition.y + spacingY*loc;
-        Vector3 tf = new Vector3(newX,newY,0.0f);
-        loc++;
-        return tf;
-
+        float newY = startPos.transform.localPosition.y;
+        coreLocation = new Vector3(newX,newY,0.0f);
     }
 
-    /// <summary>
-    /// Create the individual paper
-    /// </summary>
-    /// <param name="name"></param>
-    /// <param name="life"></param>
-    void createIndividual(string name, string life)
+    private GuiFamilyData createFamily(FamilyPerson fp)
     {
-        Vector3 pos = determineLocation();
-        GameObject canvas = GameObject.Find("Canvas");
-        GameObject hit = (GameObject)Instantiate(prefab, pos, Quaternion.identity);
-        hit.transform.SetParent(canvas.transform, false);
-        //Set the offset based on the parent to match the offset from Canvas of the init_location
-        hit.transform.localPosition = pos;
-        //for(int i = 0; i< hit.transform.childCount; i++)
-        //{
-        //    GameObject child = hit.transform.GetChild(i).;
-        //    if (child.tag == "name")
-        //    {
+        GameObject hit = (GameObject)Instantiate(prefab);//, new Vector3(0.0f, 0.0f, 0.0f), Quaternion.identity);
 
-        //    }
-        //}
-        TextMeshProUGUI[] texts = hit.GetComponentsInChildren<TextMeshProUGUI>();
-        foreach(TextMeshProUGUI tm in texts)
+        GuiFamilyData gfd = new GuiFamilyData(hit, fp, coreLocation);
+        //Pick the first marraige
+        if(fp.marriages.Count > 0)
         {
-            if(tm.text == "name")
+            MarriageData md = fp.marriages[0];
+            FamilyPerson spouse = null;
+            if(md.wife == fp)
             {
-                tm.text = name;
+                //they are the wife
+                //so add husband
+                spouse = md.husband;
             }
-            if (tm.text == "life")
+            else
             {
-                tm.text = life;
+                //they are the husband
+                //so add wife
+                spouse = md.wife;
             }
+            //Verify we aren't doing things wrong
+            Assert.AreNotEqual(null,spouse);
+            gfd.addSpouse(createFamily(spouse));
+            //ADD CHILDREN
+            foreach(FamilyPerson child in md.children)
+            {
+                gfd.addDecendent(createFamily(child));
+            }
+
         }
+        return gfd;
     }
+
 }

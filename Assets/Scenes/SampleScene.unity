@@ -222,6 +222,9 @@ MonoBehaviour:
   prefab: {fileID: 7284857525418808772, guid: 5ba2de5340174754c8af56323f1fb3a3, type: 3}
   startPos: {fileID: 2052774640}
   spacingY: 8
+  depth_step: 120
+  offset_step: 50
+  maxDepth: 8
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0

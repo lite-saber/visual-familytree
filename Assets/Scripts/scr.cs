@@ -14,6 +14,9 @@ public class scr : MonoBehaviour
     private int loc;
     public float spacingY;
     private Vector3 coreLocation;
+    public int depth_step;
+    public int offset_step;
+    public int maxDepth;
     void Start()
     {
         createCoreLocation();
@@ -26,7 +29,7 @@ public class scr : MonoBehaviour
 
         //Create the first individual
         FamilyPerson fp = gm.getRoot();
-        createFamily(fp);
+        GuiFamilyData gfd = createFamily(fp,0,0);
     }
 
     // Update is called once per frame
@@ -44,35 +47,48 @@ public class scr : MonoBehaviour
         coreLocation = new Vector3(newX,newY,0.0f);
     }
 
-    private GuiFamilyData createFamily(FamilyPerson fp)
+    private Vector3 calculatePos(int depth, int offset)
     {
-        GameObject hit = (GameObject)Instantiate(prefab);//, new Vector3(0.0f, 0.0f, 0.0f), Quaternion.identity);
+        Vector3 pos = new Vector3(coreLocation.x + depth*depth_step, coreLocation.y + offset*offset_step,0.0f);
+        return pos;
+    }
 
-        GuiFamilyData gfd = new GuiFamilyData(hit, fp, coreLocation);
+    private GuiFamilyData createFamily(FamilyPerson fp, int depth, int offset)
+    {
+        GameObject hit = (GameObject)Instantiate(prefab);
+
+        GuiFamilyData gfd = new GuiFamilyData(hit, fp, calculatePos(depth,offset));
         //Pick the first marraige
         if(fp.marriages.Count > 0)
         {
             MarriageData md = fp.marriages[0];
             FamilyPerson spouse = null;
+            int offset_move = 0;
             if(md.wife == fp)
             {
                 //they are the wife
                 //so add husband
                 spouse = md.husband;
+                offset_move = -1;
             }
-            else
+            else if(md.husband == fp)
             {
                 //they are the husband
                 //so add wife
                 spouse = md.wife;
+                offset_move = 1;
             }
-            //Verify we aren't doing things wrong
-            Assert.AreNotEqual(null,spouse);
-            gfd.addSpouse(createFamily(spouse));
+            //Add Spouse: There could be no spouse known
+            if (spouse != null)
+            {
+                gfd.addSpouse(createFamily(spouse,depth,offset+offset_move));
+            }
             //ADD CHILDREN
+            int child_offset = 0;
             foreach(FamilyPerson child in md.children)
             {
-                gfd.addDecendent(createFamily(child));
+                gfd.addDecendent(createFamily(child,depth-1,offset+child_offset*2));
+                child_offset++;
             }
 
         }
